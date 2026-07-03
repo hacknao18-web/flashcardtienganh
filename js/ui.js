@@ -37,14 +37,12 @@
   }
 
   function cardMeta(card, progress) {
-    const status = window.FlashcardProgress.statusOf(progress, card.id);
-    if (status === 'learned') {
-      return { status: 'Đã biết', difficulty: 'Dễ', next: 'Ôn khi cần' };
-    }
-    if (status === 'review') {
-      return { status: 'Cần ôn', difficulty: 'Khó', next: 'Hôm nay' };
-    }
-    return { status: 'Chưa học', difficulty: 'Mới', next: 'Học lần đầu' };
+    const state = window.FlashcardProgress.cardState(progress, card.id);
+    return {
+      status: state.label,
+      difficulty: state.difficulty,
+      next: state.nextReview
+    };
   }
 
   function updateCardMeta(card, progress) {
@@ -69,13 +67,14 @@
     el['card-example'].textContent = card.example || '(Chưa có ví dụ)';
     el['card-topic'].textContent = card.topic || '';
     updateCardMeta(card, progress);
-    el['learned-btn'].classList.toggle('active', progress.learned.includes(card.id));
-    el['review-btn'].classList.toggle('active', progress.review.includes(card.id));
+    const status = window.FlashcardProgress.statusOf(progress, card.id);
+    el['learned-btn'].classList.toggle('active', status === 'learned');
+    el['review-btn'].classList.toggle('active', status === 'review');
   }
 
   function showEmpty(title, text) {
     el.card.style.display = 'none';
-    updateCardMeta(null, { learned: [], review: [] });
+    updateCardMeta(null, window.FlashcardProgress.reset());
     let empty = document.getElementById('empty-state');
     if (!empty) {
       empty = document.createElement('div');
@@ -92,11 +91,9 @@
   }
 
   function renderReviewList(progress, cards) {
-    const reviewCards = progress.review
-      .map((id) => cards.find((card) => card.id === id))
-      .filter(Boolean)
-      .slice(0, 8);
-    el['review-list-count'].textContent = progress.review.length;
+    const allDueCards = window.FlashcardProgress.dueCards(progress, cards);
+    const reviewCards = allDueCards.slice(0, 8);
+    el['review-list-count'].textContent = allDueCards.length;
     if (!reviewCards.length) {
       el['review-list'].innerHTML = '<div class="review-empty">Chưa có từ cần ôn.</div>';
       return;
@@ -107,7 +104,7 @@
       item.className = 'review-item';
       item.innerHTML = `
         <div class="review-word">${window.FlashcardData.escapeHtml(card.word)}</div>
-        <div class="review-status">Hôm nay</div>
+        <div class="review-status">${window.FlashcardData.escapeHtml(window.FlashcardProgress.cardState(progress, card.id).nextReview)}</div>
         <div class="review-meaning">${window.FlashcardData.escapeHtml(card.meaning)}</div>
       `;
       el['review-list'].appendChild(item);

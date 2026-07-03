@@ -86,7 +86,8 @@ if (window.FlashcardApp.cards.length !== 638) {
 window.FlashcardApp.nextCard();
 window.FlashcardApp.flipCard();
 window.FlashcardApp.markCurrent('learned');
-if (window.FlashcardApp.progress.learned.length !== 1) {
+const firstRecord = Object.values(window.FlashcardApp.progress.cards)[0];
+if (!firstRecord || !firstRecord.dueDate || !firstRecord.lastReviewed || firstRecord.ease <= 0 || firstRecord.interval < 1) {
   throw new Error('Mark learned smoke check failed');
 }
 window.FlashcardApp.quiz.start();

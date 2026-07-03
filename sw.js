@@ -1,4 +1,4 @@
-const CACHE_NAME = 'flashcard-b2-v2';
+const CACHE_NAME = 'flashcard-b2-v3';
 const ASSETS = [
   './',
   './index.html',

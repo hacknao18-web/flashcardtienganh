@@ -10,9 +10,10 @@
     };
 
     function buildQueue() {
-      const review = app.filtered.filter((card) => app.progress.review.includes(card.id));
+      const dueIds = new Set(window.FlashcardProgress.dueCards(app.progress, app.filtered).map((card) => card.id));
+      const review = app.filtered.filter((card) => dueIds.has(card.id));
       const unlearned = app.filtered.filter((card) => window.FlashcardProgress.statusOf(app.progress, card.id) === 'none');
-      const learned = app.filtered.filter((card) => app.progress.learned.includes(card.id));
+      const learned = app.filtered.filter((card) => window.FlashcardProgress.statusOf(app.progress, card.id) === 'learned');
       state.queue = [
         ...window.FlashcardData.shuffle(review),
         ...window.FlashcardData.shuffle(unlearned),

@@ -1,10 +1,10 @@
-(function () {
+﻿(function () {
   const app = {
     cards: [],
     filtered: [],
     currentIndex: 0,
     isFlipped: false,
-    progress: { learned: [], review: [] },
+    progress: { version: 3, cards: {} },
     statusFilter: 'all',
     dark: false,
     mode: 'learn',
@@ -143,9 +143,10 @@
     },
 
     weightedQueue() {
-      const review = this.filtered.filter((card) => this.progress.review.includes(card.id));
+      const dueIds = new Set(window.FlashcardProgress.dueCards(this.progress, this.filtered).map((card) => card.id));
+      const review = this.filtered.filter((card) => dueIds.has(card.id));
       const unlearned = this.filtered.filter((card) => window.FlashcardProgress.statusOf(this.progress, card.id) === 'none');
-      const learned = this.filtered.filter((card) => this.progress.learned.includes(card.id));
+      const learned = this.filtered.filter((card) => window.FlashcardProgress.statusOf(this.progress, card.id) === 'learned');
       return [
         ...window.FlashcardData.shuffle(review),
         ...window.FlashcardData.shuffle(unlearned),
@@ -171,7 +172,7 @@
 
     resetProgress() {
       if (!confirm('Xóa toàn bộ tiến độ học?')) return;
-      this.progress = { learned: [], review: [] };
+      this.progress = window.FlashcardProgress.reset();
       window.FlashcardProgress.save(this.progress);
       this.applyFilters();
     },
