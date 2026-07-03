@@ -89,5 +89,14 @@ window.FlashcardApp.markCurrent('learned');
 if (window.FlashcardApp.progress.learned.length !== 1) {
   throw new Error('Mark learned smoke check failed');
 }
+window.FlashcardApp.quiz.start();
+if (window.FlashcardApp.mode !== 'quiz') throw new Error('Quiz tab smoke check failed');
+window.FlashcardApp.returnToLearn();
+window.FlashcardApp.mcq.start();
+if (window.FlashcardApp.mode !== 'mcq') throw new Error('MCQ tab smoke check failed');
+window.FlashcardApp.returnToLearn();
+window.FlashcardApp.matching.start();
+if (window.FlashcardApp.mode !== 'matching') throw new Error('Matching tab smoke check failed');
+window.FlashcardApp.returnToLearn();
 
 console.log('app smoke ok');

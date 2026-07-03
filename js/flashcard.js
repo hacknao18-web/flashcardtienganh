@@ -24,6 +24,7 @@
       this.mcq = window.FlashcardQuiz.createMCQ(this);
       this.matching = window.FlashcardMatching.createMatching(this);
       this.bindEvents();
+      window.FlashcardUI.setMode('learn');
       this.showCard(0);
       window.FlashcardUI.updateStatus(this.progress, this.cards);
       this.registerServiceWorker();
@@ -52,10 +53,17 @@
         this.speakWord();
       });
       ui['dark-toggle'].addEventListener('click', () => this.toggleDark());
-      ui['quiz-btn'].addEventListener('click', () => this.mode === 'quiz' ? this.quiz.stop() : this.quiz.start());
-      ui['mcq-btn'].addEventListener('click', () => this.mode === 'mcq' ? this.mcq.stop() : this.mcq.start());
-      ui['matching-btn'].addEventListener('click', () => this.mode === 'matching' ? this.matching.stop() : this.matching.start());
+      ui['learn-tab'].addEventListener('click', () => this.returnToLearn());
+      ui['quiz-btn'].addEventListener('click', () => this.quiz.start());
+      ui['mcq-btn'].addEventListener('click', () => this.mcq.start());
+      ui['matching-btn'].addEventListener('click', () => this.matching.start());
       document.addEventListener('keydown', (event) => this.handleKey(event));
+    },
+
+    returnToLearn() {
+      this.mode = 'learn';
+      window.FlashcardUI.setMode('learn');
+      this.applyFilters();
     },
 
     stopModes() {

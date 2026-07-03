@@ -17,97 +17,129 @@
       <p class="subtitle">2000 từ vựng tiếng Anh B2</p>
     </header>
 
-    <div class="toolbar-top">
-      <select id="topic-filter">
-        <option value="all">Tất cả chủ đề</option>
-      </select>
-      <div class="progress-text">
-        <span id="card-index">1</span> / <span id="card-total">0</span>
-      </div>
-    </div>
+    <nav class="mode-tabs" aria-label="Chế độ học">
+      <button class="mode-tab active" id="learn-tab" type="button">Học</button>
+      <button class="mode-tab" id="quiz-btn" type="button">Ôn tập</button>
+      <button class="mode-tab" id="mcq-btn" type="button">Trắc nghiệm</button>
+      <button class="mode-tab" id="matching-btn" type="button">Nối từ</button>
+    </nav>
 
-    <div class="search-bar">
-      <input type="text" id="search-input" placeholder="🔍 Tìm từ..." autocomplete="off">
-    </div>
-
-    <div class="card-container" id="card-container">
-      <div class="card" id="card">
-        <div class="card-inner">
-          <div class="card-front">
-            <p class="card-pos" id="card-pos"></p>
-            <p class="card-word" id="card-word"></p>
-            <button class="speak-btn" id="speak-btn" title="Phát âm">🔊</button>
+    <main class="study-layout">
+      <section class="study-main" aria-label="Khu học thẻ">
+        <div class="toolbar-top">
+          <div class="progress-text">
+            <span id="card-index">1</span> / <span id="card-total">0</span>
           </div>
-          <div class="card-back">
-            <p class="card-meaning" id="card-meaning"></p>
-            <p class="card-example-label">Ví dụ</p>
-            <p class="card-example" id="card-example"></p>
-            <p class="card-topic" id="card-topic"></p>
+          <div class="card-meta-strip" aria-label="Thông tin thẻ hiện tại">
+            <span id="card-status">Chưa học</span>
+            <span id="card-difficulty">Mới</span>
+            <span id="card-next-review">Học lần đầu</span>
           </div>
         </div>
-      </div>
-    </div>
 
-    <div class="mark-buttons" id="mark-buttons">
-      <button class="btn btn-mark btn-learned" id="learned-btn">✓ Đã biết</button>
-      <button class="btn btn-mark btn-review" id="review-btn">⟳ Cần ôn</button>
-    </div>
+        <div class="card-container" id="card-container">
+          <div class="card" id="card">
+            <div class="card-inner">
+              <div class="card-front">
+                <p class="card-pos" id="card-pos"></p>
+                <p class="card-word" id="card-word"></p>
+                <button class="speak-btn" id="speak-btn" title="Phát âm">🔊</button>
+              </div>
+              <div class="card-back">
+                <p class="card-meaning" id="card-meaning"></p>
+                <p class="card-example-label">Ví dụ</p>
+                <p class="card-example" id="card-example"></p>
+                <p class="card-topic" id="card-topic"></p>
+              </div>
+            </div>
+          </div>
+        </div>
 
-    <div class="mark-buttons" id="quiz-buttons" style="display:none">
-      <button class="btn btn-mark btn-correct" id="correct-btn">✓ Nhớ</button>
-      <button class="btn btn-mark btn-wrong" id="wrong-btn">✗ Quên</button>
-    </div>
+        <div class="mark-buttons" id="mark-buttons">
+          <button class="btn btn-mark btn-learned" id="learned-btn">✓ Đã biết</button>
+          <button class="btn btn-mark btn-review" id="review-btn">⟳ Cần ôn</button>
+        </div>
 
-    <div class="mcq-container" id="mcq-container" style="display:none">
-      <div class="mcq-word" id="mcq-word"></div>
-      <div class="mcq-options" id="mcq-options"></div>
-      <div class="mcq-score" id="mcq-score" style="display:none">
-        <span id="mcq-correct">0</span> đúng · <span id="mcq-wrong">0</span> sai · <span id="mcq-rate">0%</span>
-      </div>
-    </div>
+        <div class="mark-buttons" id="quiz-buttons" style="display:none">
+          <button class="btn btn-mark btn-correct" id="correct-btn">✓ Nhớ</button>
+          <button class="btn btn-mark btn-wrong" id="wrong-btn">✗ Quên</button>
+        </div>
 
-    <div class="matching-container" id="matching-container" style="display:none">
-      <div class="matching-grid" id="matching-grid"></div>
-      <div class="matching-score" id="matching-score" style="display:none">
-        Đã ghép: <span id="matching-matched">0</span> / <span id="matching-total">0</span>
-      </div>
-    </div>
+        <div class="mcq-container" id="mcq-container" style="display:none">
+          <div class="mcq-word" id="mcq-word"></div>
+          <div class="mcq-options" id="mcq-options"></div>
+          <div class="mcq-score" id="mcq-score" style="display:none">
+            <span id="mcq-correct">0</span> đúng · <span id="mcq-wrong">0</span> sai · <span id="mcq-rate">0%</span>
+          </div>
+        </div>
 
-    <div class="quiz-score" id="quiz-score" style="display:none">
-      📝 <span id="quiz-correct">0</span> đúng · <span id="quiz-wrong">0</span> sai · <span id="quiz-rate">0%</span>
-    </div>
+        <div class="matching-container" id="matching-container" style="display:none">
+          <div class="matching-grid" id="matching-grid"></div>
+          <div class="matching-score" id="matching-score" style="display:none">
+            Đã ghép: <span id="matching-matched">0</span> / <span id="matching-total">0</span>
+          </div>
+        </div>
 
-    <div class="toolbar-bottom">
-      <button class="btn btn-secondary" id="prev-btn" title="Mũi tên trái">← Trước</button>
-      <button class="btn btn-primary" id="flip-btn" title="Cách hoặc Space">Lật thẻ</button>
-      <button class="btn btn-secondary" id="next-btn" title="Mũi tên phải">Tiếp →</button>
-    </div>
+        <div class="quiz-score" id="quiz-score" style="display:none">
+          📝 <span id="quiz-correct">0</span> đúng · <span id="quiz-wrong">0</span> sai · <span id="quiz-rate">0%</span>
+        </div>
 
-    <div class="toolbar-extra">
-      <button class="btn btn-outline" id="shuffle-btn">🔀 Xáo trộn</button>
-      <select id="status-filter">
-        <option value="all">Tất cả</option>
-        <option value="review">Cần ôn</option>
-        <option value="learned">Đã biết</option>
-        <option value="none">Chưa học</option>
-      </select>
-      <button class="btn btn-outline" id="reset-btn">↺ Đặt lại</button>
-      <button class="btn btn-outline btn-quiz" id="quiz-btn">📝 Flashcard</button>
-      <button class="btn btn-outline btn-quiz" id="mcq-btn">📋 Trắc nghiệm</button>
-      <button class="btn btn-outline btn-quiz" id="matching-btn">🔗 Nối từ</button>
-    </div>
+        <div class="toolbar-bottom">
+          <button class="btn btn-secondary" id="prev-btn" title="Mũi tên trái">← Trước</button>
+          <button class="btn btn-primary" id="flip-btn" title="Cách hoặc Space">Lật thẻ</button>
+          <button class="btn btn-secondary" id="next-btn" title="Mũi tên phải">Tiếp →</button>
+        </div>
+      </section>
 
-    <div class="status-bar">
-      <div class="progress-bar-track">
-        <div class="progress-bar-fill" id="progress-fill"></div>
-      </div>
-      <div class="status-stats">
-        <span class="stat stat-learned">✓ Đã biết: <span id="learned-count">0</span></span>
-        <span class="stat stat-review">⟳ Cần ôn: <span id="review-count">0</span></span>
-        <span class="stat stat-none">○ Chưa học: <span id="none-count">0</span></span>
-      </div>
-      <div class="percent-text" id="percent-text">0%</div>
-    </div>
+      <aside class="study-panel" aria-label="Tiến độ và bộ lọc">
+        <div class="panel-section">
+          <label class="field-label" for="topic-filter">Chủ đề</label>
+          <select id="topic-filter">
+            <option value="all">Tất cả chủ đề</option>
+          </select>
+        </div>
+
+        <div class="panel-section search-bar">
+          <label class="field-label" for="search-input">Tìm từ</label>
+          <input type="text" id="search-input" placeholder="Nhập từ, nghĩa hoặc ví dụ..." autocomplete="off">
+        </div>
+
+        <div class="status-bar">
+          <div class="progress-bar-track">
+            <div class="progress-bar-fill" id="progress-fill"></div>
+          </div>
+          <div class="status-stats">
+            <span class="stat stat-learned">✓ Đã biết: <span id="learned-count">0</span></span>
+            <span class="stat stat-review">⟳ Cần ôn: <span id="review-count">0</span></span>
+            <span class="stat stat-none">○ Chưa học: <span id="none-count">0</span></span>
+          </div>
+          <div class="percent-text" id="percent-text">0%</div>
+        </div>
+
+        <div class="panel-section review-panel">
+          <div class="panel-heading">
+            <h2>Cần ôn</h2>
+            <span id="review-list-count">0</span>
+          </div>
+          <div class="review-list" id="review-list"></div>
+        </div>
+
+        <details class="settings-panel" id="settings-panel">
+          <summary>Tùy chọn</summary>
+          <div class="settings-actions">
+            <button class="btn btn-outline" id="shuffle-btn">🔀 Xáo trộn</button>
+            <label class="field-label" for="status-filter">Trạng thái</label>
+            <select id="status-filter">
+              <option value="all">Tất cả</option>
+              <option value="review">Cần ôn</option>
+              <option value="learned">Đã biết</option>
+              <option value="none">Chưa học</option>
+            </select>
+            <button class="btn btn-outline" id="reset-btn">↺ Đặt lại tiến độ</button>
+          </div>
+        </details>
+      </aside>
+    </main>
   </div>
 
   <script src="vocab-data.js"></script>
