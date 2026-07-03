@@ -3,12 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#2563eb">
   <title>Flashcard - 2000 từ vựng tiếng Anh B2</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="app">
     <header>
+      <button class="dark-toggle" id="dark-toggle" title="Chế độ tối">🌙</button>
       <h1>Flashcard</h1>
       <p class="subtitle">2000 từ vựng tiếng Anh B2</p>
     </header>
@@ -49,6 +53,30 @@
       <button class="btn btn-mark btn-review" id="review-btn">⟳ Cần ôn</button>
     </div>
 
+    <div class="mark-buttons" id="quiz-buttons" style="display:none">
+      <button class="btn btn-mark btn-correct" id="correct-btn">✓ Nhớ</button>
+      <button class="btn btn-mark btn-wrong" id="wrong-btn">✗ Quên</button>
+    </div>
+
+    <div class="mcq-container" id="mcq-container" style="display:none">
+      <div class="mcq-word" id="mcq-word"></div>
+      <div class="mcq-options" id="mcq-options"></div>
+      <div class="mcq-score" id="mcq-score" style="display:none">
+        <span id="mcq-correct">0</span> đúng · <span id="mcq-wrong">0</span> sai · <span id="mcq-rate">0%</span>
+      </div>
+    </div>
+
+    <div class="matching-container" id="matching-container" style="display:none">
+      <div class="matching-grid" id="matching-grid"></div>
+      <div class="matching-score" id="matching-score" style="display:none">
+        Đã ghép: <span id="matching-matched">0</span> / <span id="matching-total">0</span>
+      </div>
+    </div>
+
+    <div class="quiz-score" id="quiz-score" style="display:none">
+      📝 <span id="quiz-correct">0</span> đúng · <span id="quiz-wrong">0</span> sai · <span id="quiz-rate">0%</span>
+    </div>
+
     <div class="toolbar-bottom">
       <button class="btn btn-secondary" id="prev-btn" title="Mũi tên trái">← Trước</button>
       <button class="btn btn-primary" id="flip-btn" title="Cách hoặc Space">Lật thẻ</button>
@@ -64,6 +92,9 @@
         <option value="none">Chưa học</option>
       </select>
       <button class="btn btn-outline" id="reset-btn">↺ Đặt lại</button>
+      <button class="btn btn-outline btn-quiz" id="quiz-btn">📝 Flashcard</button>
+      <button class="btn btn-outline btn-quiz" id="mcq-btn">📋 Trắc nghiệm</button>
+      <button class="btn btn-outline btn-quiz" id="matching-btn">🔗 Nối từ</button>
     </div>
 
     <div class="status-bar">
@@ -80,6 +111,12 @@
   </div>
 
   <script src="vocab-data.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/matching.js"></script>
+  <script src="js/flashcard.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

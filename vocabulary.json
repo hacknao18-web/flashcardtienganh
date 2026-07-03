@@ -4,4472 +4,5103 @@
     "pos": "adv.",
     "meaning": "Một cách tình cờ, bất ngờ",
     "example": "As i turned around, I accidentally hit him in the face",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-accidentally-4cce17bd"
   },
   {
     "word": "collision",
     "pos": "n.",
-    "meaning": "Sựva chạm",
+    "meaning": "Sự va chạm",
     "example": "His car was in collision with a motorbike",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-collision-23a9435a"
   },
   {
     "word": "crush",
     "pos": "v.",
     "meaning": "Nghiền nát",
     "example": "The car was completely crushed under the truck",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-crush-eb63715e"
   },
   {
     "word": "debris",
     "pos": "n.",
-    "meaning": "Mảnh vỡ, mảnh vụn, đống đổnát",
+    "meaning": "Mảnh vỡ, mảnh vụn, đống đổ nát",
     "example": "Emergency teams are still clearing the debris from the plane crash",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-debris-4b566c49"
   },
   {
     "word": "drown",
     "pos": "v.",
     "meaning": "Chết đuối",
     "example": "Two children drowned after falling into the river",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-drown-68a574d6"
   },
   {
     "word": "evacuate",
     "pos": "v.",
     "meaning": "Sơ tán",
     "example": "Families were evacuated to safer parts of the city",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-evacuate-9ec7a4cc"
   },
   {
     "word": "evident",
     "pos": "adj.",
     "meaning": "Hiển nhiên, rõ rệt",
     "example": "The full extent of the damage only became evident the following morning",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-evident-212b2c66"
   },
   {
     "word": "fragile",
     "pos": "adj.",
-    "meaning": "Dễvỡ, dễgãy; mỏng manh",
-    "example": "Be careful not to drop it; it’s very fragile",
-    "topic": "1: Accidents"
+    "meaning": "Dễ vỡ, dễ gãy; mỏng manh",
+    "example": "Be careful not to drop it; it's very fragile",
+    "topic": "1: Accidents",
+    "id": "1-accidents-fragile-251a3056"
   },
   {
     "word": "fragment",
     "pos": "n.",
     "meaning": "Mảnh vỡ, mảnh, mẩu",
     "example": "The shattered vase lay in fragments on the floor",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-fragment-c5af74c6"
   },
   {
     "word": "identification",
     "pos": "n.",
-    "meaning": "Sựnhận diện, nhận dạng",
+    "meaning": "Sự nhận diện, nhận dạng",
     "example": "The identification of the crash victims was a long and difficult task",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-identification-12c4c158"
   },
   {
     "word": "inevitable",
     "pos": "adj.",
-    "meaning": "Không thểtránh khỏi",
+    "meaning": "Không thể tránh khỏi",
     "example": "The accident was the inevitable result of carelessness",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-inevitable-e379b79f"
   },
   {
     "word": "inevitably",
     "pos": "adv.",
-    "meaning": "Một cách không thểtránh khỏi",
+    "meaning": "Một cách không thể tránh khỏi",
     "example": "Older cars inevitably pose a risk to safety",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-inevitably-37634488"
   },
   {
     "word": "minimal",
     "pos": "adj.",
     "meaning": "tối thiểu",
     "example": "There were no injuries and damage to the building was minimal.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-minimal-186609fd"
   },
   {
     "word": "motorist",
     "pos": "n.",
     "meaning": "người lái xe hơi",
     "example": "The accident was reported by a passing motorist.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-motorist-b2616b73"
   },
   {
     "word": "plunge",
     "pos": "v.",
     "meaning": "lao vào, lao xuống",
     "example": "She lost her balance and plunged 100 feet to her death",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-plunge-9a3a85c1"
   },
   {
     "word": "slam",
     "pos": "v.",
     "meaning": "đóng sầm Ném phịch (vật gì, xuống bàn...)",
     "example": "I heard the door slam behind him. She slammed down the phone angrily. The car skidded and slammed into a tree.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-slam-095a3cf9"
   },
   {
     "word": "slap",
     "pos": "v.",
     "meaning": "Vỗ, phát, vả Đặt (cái gì) vào đâu đó với một tiếng vỗ, tiếng đập",
     "example": "He slapped the newspaper down on the desk.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-slap-e188d2e0"
   },
   {
     "word": "slash",
     "pos": "v.",
     "meaning": "Chém, rạch, cắt, khía",
     "example": "We had to slash our way through the undergrowth with sticks.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-slash-c263b335"
   },
   {
     "word": "smash",
     "pos": "v.",
-    "meaning": "vỡra từng mảnh phá tan",
+    "meaning": "vỡ ra từng mảnh phá tan",
     "example": "Several windows had been smashed.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-smash-1d513c39"
   },
   {
     "word": "snap",
     "pos": "v.",
     "meaning": "táp, đớp bẻgãy",
     "example": "The wind had snapped the tree in two.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-snap-5f799881"
   },
   {
     "word": "spill",
     "pos": "v.",
     "meaning": "Làm tràn, làm đổ tiết lộ",
     "example": "Water had spilled out of the bucket onto the floor. He has spilled his guts in his new autobiography.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-spill-05caea64"
   },
   {
     "word": "spin",
     "pos": "v., n.",
-    "meaning": "Sựquay tròn, sựxoay tròn Động tác bổnhào quay (thông tục) sựđi chơi; cuộc đi chơi ngắn",
+    "meaning": "Sự quay tròn, sựxoay tròn Động tác bổ nhào quay (thông tục) sựđi chơi; cuộc đi chơi ngắn",
     "example": "pulse",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-spin-6feeaa43"
   },
   {
     "word": "spine",
     "pos": "n.",
     "meaning": "xương sống",
     "example": "Injuries to the spine are common amongst these workers.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-spine-8c22ba41"
   },
   {
     "word": "stumble",
     "pos": "v.",
     "meaning": "vấp, sẩy chân",
     "example": "Running along the beach, she stumbled on a log and fell on the sand.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-stumble-90afc4a6"
   },
   {
     "word": "tragedy",
     "pos": "n.",
     "meaning": "Bi kịch",
     "example": "It's a tragedy that she died so young",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "id": "1-accidents-tragedy-c64a7bed"
   },
   {
+    "topic": "1: Accidents",
     "word": "tragic",
-    "pos": "",
-    "meaning": "",
-    "example": "adj., Bi thảm, thảm thương He was killed in a tragic accident at the age of",
-    "topic": "1: Accidents"
+    "pos": "adj.",
+    "meaning": "Bi thảm, thảm thương",
+    "example": "He was killed in a tragic accident at the age of 24",
+    "id": "1-accidents-tragic-bfaa86de"
   },
   {
-    "word": "27",
-    "pos": "",
-    "meaning": "",
-    "example": "wrist n. cổtay I sprained my wrist playing tennis.",
-    "topic": "1: Accidents"
+    "topic": "1: Accidents",
+    "word": "wrist",
+    "pos": "n.",
+    "meaning": "cổ tay",
+    "example": "I sprained my wrist playing tennis.",
+    "id": "1-accidents-wrist-4ed7aab6"
   },
   {
     "word": "yell",
     "pos": "v.",
     "meaning": "hét lên",
     "example": "The boy yelled with pain as the car crashed.",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-yell-e108f13e"
   },
   {
     "word": "absurd",
     "pos": "adj.",
-    "meaning": "Ngớngẩn",
+    "meaning": "Ngớ ngẩn",
     "example": "That uniform makes you look absurd",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-absurd-ace182c6"
   },
   {
     "word": "casual",
     "pos": "adj.",
     "meaning": "Đơn giản, bình thường",
     "example": "She felt comfortable in casual clothes and wore them most of the time",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-casual-0178bd0f"
   },
   {
     "word": "colorful",
     "pos": "adj.",
     "meaning": "Sặc sỡ",
     "example": "Her dress is very colorful",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-colorful-72e0db5e"
   },
   {
     "word": "crystal",
     "pos": "n.",
     "meaning": "Khoáng vật trong suốt",
     "example": "She was wearing a crystal pendant",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-crystal-848c4e53"
   },
   {
     "word": "differ",
     "pos": "v.",
     "meaning": "Khác, không giống",
     "example": "The models differ in size and shape",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-differ-d69b45e5"
   },
   {
     "word": "differentiate",
     "pos": "v.",
     "meaning": "Phân biệt",
     "example": "The male's yellow beak differentiates it from the female",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-differentiate-35cf8985"
   },
   {
     "word": "distinct",
     "pos": "adj.",
     "meaning": "Khác biệt",
     "example": "A face, much like a signature, has a distinct look and shape",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-distinct-200495b3"
   },
   {
     "word": "distinction",
     "pos": "n.",
-    "meaning": "Sựphân biệt",
+    "meaning": "Sự phân biệt",
     "example": "It was a subtle distinction but a very important one",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-distinction-1c240769"
   },
   {
     "word": "distinctive",
     "pos": "adj.",
     "meaning": "Đặc biệt",
     "example": "The name comes from its distinctive appearance",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-distinctive-39170255"
   },
   {
     "word": "distinguish",
     "pos": "v.",
     "meaning": "Phân biệt",
     "example": "It was hard to distinguish one twin from the other",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-distinguish-6b712c1e"
   },
   {
     "word": "elaborate",
     "pos": "adj.",
-    "meaning": "Tỉmỉ, công phu; chi tiết; chau chuốt",
+    "meaning": "Tỉ mỉ, công phu; chi tiết; chau chuốt",
     "example": "You want a plain blouse to go with that skirt - nothing too elaborate",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-elaborate-182f5c77"
   },
   {
     "word": "fabric",
     "pos": "n.",
     "meaning": "Vải",
     "example": "They sell a wide variety of printed cotton fabric",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-fabric-32c01d87"
   },
   {
     "word": "fabulous",
     "pos": "adj.",
     "meaning": "Tuyệt vời",
     "example": "I want an outfit that'll make me look fabulous",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-fabulous-44b0d5a4"
   },
   {
     "word": "fade",
     "pos": "v.",
     "meaning": "Nhạt, phai",
     "example": "He was wearing faded blue jeans",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-fade-0336a413"
   },
   {
     "word": "fake",
     "pos": "adj.",
     "meaning": "Giả",
     "example": "There were a few stalls selling fake designer clothing",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-fake-ec277295"
   },
   {
     "word": "gaze",
     "pos": "n., v.",
     "meaning": "Nhìn chằm chằm",
     "example": "grin",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-gaze-d821d184"
   },
   {
     "word": "golden",
     "pos": "adj.",
     "meaning": "Bằng vàng; có màu vàng",
     "example": "Once upon a time there was a beautiful young princess with long golden hair",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-golden-89d15c1a"
   },
   {
     "word": "gorgeous",
     "pos": "adj.",
     "meaning": "Lộng lẫy",
     "example": "He's just started going out with this really gorgeous girl",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-gorgeous-29448dc0"
   },
   {
     "word": "grace",
     "pos": "n.",
-    "meaning": "Vẻduyên dáng, yểu điệu",
+    "meaning": "Vẻ duyên dáng, yểu điệu",
     "example": "She moves with the natural grace of a ballerina",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-grace-0369c7b5"
   },
   {
     "word": "identical",
     "pos": "adj.",
     "meaning": "Giống hệt",
     "example": "Her dress is almost identical to mine",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-identical-01ffee24"
   },
   {
     "word": "magnificent",
     "pos": "adj.",
     "meaning": "tráng lễ, lộng lẫy",
     "example": "She looked magnificent in her wedding dress.",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-magnificent-24371b88"
   },
   {
     "word": "naked",
     "pos": "adj.",
     "meaning": "trần truồng",
     "example": "The children were half naked",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-naked-27b7a446"
   },
   {
     "word": "outfit",
     "pos": "n.",
     "meaning": "trang phục",
     "example": "She was wearing an expensive new outfit.",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-outfit-e6d9a584"
   },
   {
     "word": "patch",
     "pos": "n.",
     "meaning": "miếng vá",
     "example": "I sewed patches on the knees of my jeans.",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-patch-8021e8a1"
   },
   {
     "word": "ridiculous",
     "pos": "adj.",
-    "meaning": "trông buồn cười, lốbịch",
+    "meaning": "trông buồn cười, lố bịch",
     "example": "Do I look ridiculous in this hat?",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-ridiculous-f995e0ba"
   },
   {
     "word": "robust",
     "pos": "adj.",
     "meaning": "khỏe; tráng kiện",
     "example": "He seems to be in robust (good) health. She was almost 90, but still very robust.",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-robust-53f7639c"
   },
   {
     "word": "sexy",
     "pos": "adj.",
     "meaning": "gợi cảm",
     "example": "She looked incredibly sexy in a black evening gown.",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-sexy-63267c36"
   },
   {
     "word": "shaped",
     "pos": "adj.",
-    "meaning": "(trong từghép) có hình dáng được chỉrõ định hình",
+    "meaning": "(trong từghép) có hình dáng được chỉ rõ định hình",
     "example": "a huge balloon shaped like a giant cow almond-shaped eyes",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-shaped-e8e6926d"
   },
   {
     "word": "strand",
     "pos": "n.",
     "meaning": "sợi",
     "example": "She wore a single strand of pearls around her neck",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-strand-4d66cc61"
   },
   {
     "word": "striking",
     "pos": "adj.",
     "meaning": "nổi bật, thu hút sựchú ý",
     "example": "He's good-looking, but he's not as striking as his brother",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-striking-88f0beab"
   },
   {
     "word": "texture",
     "pos": "n.",
     "meaning": "Kết cấu; cách dệt, lối dệt (vải)",
     "example": "The cloth was rough in texture",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-texture-e7e3a57c"
   },
   {
     "word": "thread",
     "pos": "n.",
     "meaning": "Chỉ, sợi",
     "example": "He was wearing a robe embroidered with gold thread",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-thread-079a6b9c"
   },
   {
     "word": "transformation",
     "pos": "n.",
-    "meaning": "Sựbiến đổi",
+    "meaning": "Sự biến đổi",
     "example": "I'd never seen Jose in a tuxedo before - it was quite a transformation",
-    "topic": "2: Appearance"
+    "topic": "2: Appearance",
+    "id": "2-appearance-transformation-95ac3243"
   },
   {
     "word": "twist",
     "pos": "v., n.",
     "meaning": "Quấn, xoắn",
     "example": "Her hair was twisted into a knot on top of her head",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-twist-d505ac92"
   },
   {
     "word": "apology",
     "pos": "n.",
     "meaning": "Lời xin lỗi",
     "example": "You owe him an apology for what you said",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-apology-d66c611e"
   },
   {
     "word": "articulate",
     "pos": "v.",
     "meaning": "Giải thích rõ ràng",
     "example": "She had great ideas in her mind but struggle to articulate them",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-articulate-69f67f64"
   },
   {
     "word": "assert",
     "pos": "v.",
     "meaning": "Xác nhận, khẳng định một cách quảquyết, quảđoán",
     "example": "She continued to assert that she was innocent",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-assert-24f4d26f"
   },
   {
     "word": "assertion",
     "pos": "n.",
     "meaning": "Sựxác nhận, khẳng định một cách quảquyết, quả đoán",
     "example": "Do you have any evidence to support your assertions?",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-assertion-b9b832d4"
   },
   {
     "word": "assurance",
     "pos": "n.",
-    "meaning": "Sựchắc chắn, đảm bảo",
+    "meaning": "Sự chắc chắn, đảm bảo",
     "example": "She gave us her assurance that she would sign the contract immediately",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-assurance-4fb2e459"
   },
   {
     "word": "assure",
     "pos": "v.",
     "meaning": "Đảm bảo",
     "example": "I can assure you that she's perfectly safe",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-assure-bf60d2d2"
   },
   {
     "word": "breakdown",
     "pos": "n.",
-    "meaning": "Sựthất bại, sựsụp độ",
+    "meaning": "Sự thất bại, sựsụp độ",
     "example": "There has obviously been a breakdown in communications between the two sides",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-breakdown-24c1c339"
   },
   {
     "word": "broadly",
     "pos": "adv.",
     "meaning": "Nói chung",
     "example": "Broadly speaking, I agree with you",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-broadly-5c4c6886"
   },
   {
     "word": "clarify",
     "pos": "v.",
     "meaning": "Làm sáng tỏ",
     "example": "I hope this clarifies my position",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-clarify-c7bf8f36"
   },
   {
     "word": "clarity",
     "pos": "n.",
-    "meaning": "Sựrõ ràng, sáng sủa",
+    "meaning": "Sự rõ ràng, sáng sủa",
     "example": "The brilliant clarity of his argument could not be faulted",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-clarity-1cad5cda"
   },
   {
     "word": "conceal",
     "pos": "v.",
     "meaning": "Giấu diếm",
     "example": "She sat down to conceal the fact that she was trembling",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-conceal-30e0490f"
   },
   {
     "word": "concede",
     "pos": "v.",
     "meaning": "Thừa nhận",
     "example": "He reluctantly conceded the point to me",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-concede-5694231f"
   },
   {
     "word": "congratulate",
     "pos": "v.",
     "meaning": "Chúc mừng",
     "example": "I congratulated them all on their results",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-congratulate-357d85f7"
   },
   {
     "word": "consult",
     "pos": "v.",
     "meaning": "Hỏi ý kiến",
     "example": "Have you consulted your lawyer about this?",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-consult-ac6492bc"
   },
   {
     "word": "consultant",
     "pos": "n.",
     "meaning": "Chuyên viên tham vấn",
     "example": "He was happy to act as a consultant to the company",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-consultant-5a19504d"
   },
   {
     "word": "consultation",
     "pos": "n.",
     "meaning": "Sựhỏi ý kiến",
     "example": "The decision was taken after close consultation with local residents",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-consultation-84e6d31e"
   },
   {
     "word": "convey",
     "pos": "v.",
     "meaning": "Diễn đạt",
     "example": "He managed to convey his enthusiasm to her",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-convey-3e6712c7"
   },
   {
     "word": "correspond",
     "pos": "v.",
     "meaning": "Trao đổi thư từ",
     "example": "She corresponded regularly with her former teacher",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-correspond-3ada5d64"
   },
   {
-    "word": "correspondenc",
-    "pos": "",
-    "meaning": "e n. Thư từ",
+    "topic": "3: Communication",
+    "word": "correspondence",
+    "pos": "n.",
+    "meaning": "Thư từ",
     "example": "I have seen the correspondence between the company and the college",
-    "topic": "3: Communication"
+    "id": "3-communication-correspondence-eb04a957"
   },
   {
-    "word": "correspondent n.",
-    "pos": "",
+    "word": "correspondent",
+    "pos": "n.",
     "meaning": "Người trao đổi thư từ",
     "example": "She's a poor correspondent",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-correspondent-bde32486"
   },
   {
-    "word": "counter (argue",
-    "pos": "",
-    "meaning": "",
-    "example": "against) v. Phản đối, chống lại I tried to argue but he countered that the plans were not yet finished",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "word": "counter",
+    "pos": "v.",
+    "meaning": "Phản đối, chống lại",
+    "example": "I tried to argue but he countered that the plans were not yet finished",
+    "id": "3-communication-counter-f459f3e8"
   },
   {
     "word": "cue",
     "pos": "n.",
     "meaning": "Ra hiệu",
     "example": "She stood in the wings and waited for her cue to go on",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-cue-7e41ec69"
   },
   {
     "word": "enquire",
     "pos": "v.",
     "meaning": "Hỏi thăm, hỏi han; Điều tra I called the station to enquire about train times",
     "example": "",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-enquire-4b34a5a3"
   },
   {
     "word": "envelope",
     "pos": "n.",
     "meaning": "Bao bì, phong bì",
     "example": "Writing paper and envelopes are provided in your room",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-envelope-46fcb1d0"
   },
   {
     "word": "explicit",
     "pos": "adj.",
     "meaning": "Rõ ràng, rành mạch",
     "example": "He gave me very explicit directions on how to get there",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-explicit-26da031d"
   },
   {
     "word": "explicitly",
     "pos": "adv.",
     "meaning": "Một cách rõ ràng, rành mạch",
     "example": "The text does not explicitly mention him by name",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-explicitly-f7462d14"
   },
   {
     "word": "frankly",
     "pos": "adv.",
     "meaning": "Một cách thẳng thắn, thật tình",
     "example": "They frankly admitted their responsibility",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-frankly-aa31a718"
   },
   {
     "word": "gesture",
     "pos": "n.",
-    "meaning": "Sựra hiệu (bằng tay, bằng đầu)",
+    "meaning": "Sự ra hiệu (bằng tay, bằng đầu)",
     "example": "They communicated entirely by gesture",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-gesture-e339a2d2"
   },
   {
     "word": "hint",
     "pos": "n., v.",
-    "meaning": "Sựgợi ý",
+    "meaning": "Sự gợi ý",
     "example": "He gave a hint that he was thinking of retiring",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-hint-2058866a"
   },
   {
     "word": "metaphor",
     "pos": "n.",
     "meaning": "phép ẩn dụ",
     "example": "Metaphor and simile are the most commonly used figures of speech in everyday language.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-metaphor-9b861b51"
   },
   {
     "word": "obstacle",
     "pos": "n.",
     "meaning": "vật chướng ngại; trởngại",
     "example": "The huge distances involved have proved an obstacle to communication between villages Mosquitoes were a great obstacle to the building of the Panama Canal.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-obstacle-b016a9d5"
   },
   {
     "word": "pause",
     "pos": "v., n.",
     "meaning": "(sự) tạm nghỉ, tạm ngừng",
     "example": "He spoke for an hour without a pause",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-pause-da52fd11"
   },
   {
     "word": "query",
     "pos": "n.",
     "meaning": "câu hỏi, chất vấn, thắc mắc",
     "example": "We have received many written queries about the product.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-query-caefedf8"
   },
   {
     "word": "recipient",
     "pos": "n.",
     "meaning": "người nhận..",
     "example": "He was a recipient of the Civilian Service Award. They are the country's biggest recipient of government funds.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-recipient-aa737527"
   },
   {
     "word": "reminder",
     "pos": "n.",
     "meaning": "sựnhắc nhở",
     "example": "If he forgot to pay his rent, his landlady would send him a reminder.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-reminder-76220b51"
   },
   {
     "word": "scenario",
     "pos": "n.",
     "meaning": "Viễn cảnh; viễn tưởng, chuỗi sựkiện tương lai (do tưởng tượng)",
     "example": "Let me suggest a possible scenario.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-scenario-3722da9b"
   },
   {
     "word": "seldom",
     "pos": "n.",
     "meaning": "hiếm khi",
     "example": "He had seldom seen a child with so much talent.",
-    "topic": "3: Communication"
+    "topic": "3: Communication",
+    "id": "3-communication-seldom-3da7519c"
   },
   {
     "word": "spam",
     "pos": "n.",
     "meaning": "thư rác",
     "example": "I get thousands of spam emails each month.",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-spam-27b0eb6b"
   },
   {
     "word": "agricultural",
     "pos": "adj.",
     "meaning": "Thuộc nông nghiệp",
     "example": "The country's economy is mainly agricultural",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-agricultural-9eedf141"
   },
   {
     "word": "agriculture",
     "pos": "n.",
     "meaning": "Nông nghiệp",
     "example": "50% of the country's population depends on agriculture",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-agriculture-7df8c227"
   },
   {
     "word": "backdrop",
     "pos": "n.",
     "meaning": "Khung cảnh nền",
     "example": "The mountains provided a dramatic backdrop for our picnic",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-backdrop-6c0b91eb"
   },
   {
     "word": "bay",
     "pos": "n.",
     "meaning": "Vịnh",
     "example": "Ha Long Bay is one of the most famous tourist attractions in Vietnam",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-bay-d929ce6d"
   },
   {
     "word": "canal",
     "pos": "n.",
     "meaning": "Kênh, sông đào",
     "example": "In Amsterdam we had a boat ride on the canals",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-canal-c8542d58"
   },
   {
     "word": "cattle",
     "pos": "n.",
     "meaning": "Gia súc",
     "example": "He moved his cattle farther down into the valley in winter",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-cattle-cdae7f6d"
   },
   {
     "word": "cave",
     "pos": "n.",
     "meaning": "Hang động",
     "example": "At one point during our trip we found ourselves in a dark cave",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-cave-1f741490"
   },
   {
     "word": "cliff",
     "pos": "n.",
     "meaning": "Vách đá",
     "example": "Steep cliffs towered above the river",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-cliff-8b9a3e85"
   },
   {
     "word": "coastal",
     "pos": "adj.",
     "meaning": "Thuộc bờbiển, ven biển",
     "example": "Nha Trang is a coastal city in the South of Vietnam",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-coastal-702c831b"
   },
   {
     "word": "cultivate",
     "pos": "v.",
     "meaning": "Canh tác, trồng trọt",
     "example": "The land around here has never been cultivated",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-cultivate-1f1c0533"
   },
   {
     "word": "harvest",
     "pos": "n.",
     "meaning": "Vụthu hoạch; vụgặt",
     "example": "Farmers are extremely busy during the harvest",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-harvest-b7dc266f"
   },
   {
     "word": "mill",
     "pos": "n.",
     "meaning": "xưởng, nhà máy (vềmột nghềnhư làm giấy, xẻ gỗ,...)",
     "example": "The mill can be seen grinding wheat.",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-mill-0bbf3067"
   },
   {
     "word": "peasant",
     "pos": "n.",
     "meaning": "nông dân",
     "example": "Tons of internationally donated food was distributed to the starving peasants.",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-peasant-7853c6ec"
   },
   {
     "word": "spectacular",
     "pos": "adj.",
     "meaning": "hùng vĩ, ngoạn mục",
     "example": "Scotland is famous for its spectacular countryside.",
-    "topic": "4: Countryside"
+    "topic": "4: Countryside",
+    "id": "4-countryside-spectacular-3b5de369"
   },
   {
     "word": "villager",
     "pos": "n.",
     "meaning": "người sống trong làng",
     "example": "A lot of villagers have migrated to the city.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-villager-0ef7161e"
   },
   {
     "word": "angel",
     "pos": "n.",
     "meaning": "Thiên thần, thiên sứ",
     "example": "She looks like an angel",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-angel-5333ed39"
   },
   {
     "word": "bishop",
     "pos": "n.",
     "meaning": "Giám mục",
     "example": "He was appointed the new Bishop of the city church",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-bishop-285951d1"
   },
   {
     "word": "bless",
     "pos": "v.",
     "meaning": "Ban phước",
     "example": "They brought the children to Jesus and he blessed them",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-bless-979e6d59"
   },
   {
     "word": "blessing",
     "pos": "n.",
     "meaning": "Phúc lành",
     "example": "They asked God's blessing on their pastoral work",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-blessing-c5ce525d"
   },
   {
-    "word": "congregation n.",
-    "pos": "",
+    "word": "congregation",
+    "pos": "n.",
     "meaning": "Giáo đoàn",
     "example": "The congregation stood to sing the hymn",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-congregation-ff4f79d9"
   },
   {
     "word": "cult",
     "pos": "n., adj.",
     "meaning": "Sựthờcúng, cúng bái/Sự ham thích, mốt thịnh hành",
     "example": "Their son ran away from home and joined a religious cult",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-cult-e2672ebb"
   },
   {
     "word": "demon",
     "pos": "n.",
     "meaning": "Quỷ, ma quỷ",
     "example": "The people believed the girl was possessed by demons",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-demon-e3e46e1e"
   },
   {
     "word": "devil",
     "pos": "n.",
     "meaning": "Ma, quỷ",
     "example": "They believed she was possessed by devils",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-devil-8bb41def"
   },
   {
     "word": "diverse",
     "pos": "adj.",
     "meaning": "Đa dạng",
     "example": "People from diverse cultures were invited to the event",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-diverse-9fec32d2"
   },
   {
     "word": "diversity",
     "pos": "n.",
     "meaning": "Sựđa dạng",
     "example": "People are being encouraged to celebrate the diversity of their communities",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-diversity-63a05c9a"
   },
   {
     "word": "divine",
     "pos": "adj.",
     "meaning": "Thuộc thần thánh",
     "example": "He woked up after 10 years in a coma. Pepole are saying it's divine intervention",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-divine-35084ff5"
   },
   {
     "word": "doctrine",
     "pos": "n.",
-    "meaning": "Học thuyết, chủnghĩa",
+    "meaning": "Học thuyết, chủ nghĩa",
     "example": "She rejected the traditional Christian doctrines",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-doctrine-385eaa0f"
   },
   {
     "word": "firework",
     "pos": "n.",
     "meaning": "Pháo hoa",
     "example": "They set off fireworks in their back garden",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-firework-24319a23"
   },
   {
     "word": "heritage",
     "pos": "n.",
     "meaning": "Di sản",
     "example": "Folk songs are part of our common heritage",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-heritage-3268bba2"
   },
   {
     "word": "indigenous",
     "pos": "adj.",
     "meaning": "Bản địa, bản xứ",
     "example": "Antarctica has no indigenous population",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-indigenous-b3e37c6d"
   },
   {
     "word": "legacy",
     "pos": "n.",
     "meaning": "di sản",
     "example": "The Greeks have a rich legacy of literature.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-legacy-23d0ff29"
   },
   {
     "word": "monk",
     "pos": "n.",
     "meaning": "thầy tu, thầy tăng",
     "example": "An example of a monk is a Buddhist man living with other Buddhists and following strict life rules.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-monk-86a77ee4"
   },
   {
     "word": "mosque",
     "pos": "n.",
     "meaning": "đền thờHồi giáo",
     "example": "The designs for the new mosque have attracted widespread criticism.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-mosque-ec65c7bf"
   },
   {
     "word": "myth",
     "pos": "n.",
     "meaning": "huyền thoại",
     "example": "Most societies have their own creation myths.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-myth-962263c9"
   },
   {
     "word": "offering",
     "pos": "n.",
     "meaning": "sựđềnghị",
     "example": "Many people visit Shinto shrines to make offerings of fruit or rice to the gods.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-offering-ba7180cd"
   },
   {
     "word": "parish",
     "pos": "n.",
-    "meaning": "xứđạo, giáo khu",
+    "meaning": "xứ đạo, giáo khu",
     "example": "She lived her whole life in this parish.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-parish-ac9c35ca"
   },
   {
     "word": "pastor",
     "pos": "n.",
     "meaning": "mục sư",
     "example": "He was ordained a pastor in the Lutheran Church.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-pastor-18f1c315"
   },
   {
     "word": "preach",
     "pos": "v.",
     "meaning": "thuyết giáo, giảng đạo, khuyên răn chủtrương, ra sức thuyết phục ai chấp nhận một điều gì",
     "example": "They preach the abolition of established systems but propose nothing to replace them.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-preach-30c82ebc"
   },
   {
     "word": "preservation",
     "pos": "n.",
     "meaning": "sựbảo tồn, duy trì sựbảo quản (thức ăn, thịt...)",
     "example": "The central issue in the strike was the preservation of jobs.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-preservation-e1d57ca3"
   },
   {
     "word": "ritual",
     "pos": "n.",
     "meaning": "trình tựhành lễ; nghi lễ",
     "example": "Sunday lunch with the in-laws has become something of a ritual. She objects to the ritual of organized religion.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-ritual-72915a4c"
   },
   {
     "word": "sacred",
     "pos": "adj.",
     "meaning": "thần thánh, của thần; thiêng liêng",
     "example": "Cows are sacred to Hindus.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-sacred-d6617a3a"
   },
   {
     "word": "sacrifice",
     "pos": "n., v.",
     "meaning": "Sựcúng thần; sựtếlễ; vật hiến tế Sựhy sinh; vật hy sinh",
     "example": "Hy sinh They offered sacrifices to the gods. Her parents made sacrifices so that she could have a good education.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-sacrifice-584861a4"
   },
   {
     "word": "saint",
     "pos": "n.",
     "meaning": "thánh, thần",
     "example": "The children were all named after saints.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-saint-9319813a"
   },
   {
     "word": "secular",
     "pos": "adj.",
     "meaning": "Trường kỳ, muôn thuở trần tục, không thiêng liêng",
     "example": "We live in a largely secular society.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-secular-6ec343ef"
   },
   {
     "word": "sin",
     "pos": "n.",
     "meaning": "tội lỗi",
     "example": "The Bible says that stealing is a sin.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-sin-932ff5ef"
   },
   {
     "word": "symbolic",
     "pos": "adj.",
     "meaning": "mang tính đại diện",
     "example": "The moon in this culture is symbolic of death.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-symbolic-6b58215a"
   },
   {
     "word": "theology",
     "pos": "n.",
     "meaning": "Thần học",
     "example": "He studied theology at college",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-theology-063425e7"
   },
   {
     "word": "tribal",
     "pos": "adj.",
-    "meaning": "Bộlạc",
+    "meaning": "Bộ lạc",
     "example": "He photographed Tahitian men with traditional tribal tattoos",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-tribal-fa11d924"
   },
   {
     "word": "tribe",
     "pos": "n.",
-    "meaning": "Bộlạc",
+    "meaning": "Bộ lạc",
     "example": "The dancers are all members of the Tembu tribe",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-tribe-812187c7"
   },
   {
     "word": "vow",
     "pos": "v.",
     "meaning": "lời thề",
     "example": "After the awful meals we had last Christmas, I vowed to do more of the cooking myself.",
-    "topic": "5: Culture and Religion"
+    "topic": "5: Culture and Religion",
+    "id": "5-culture-and-religion-vow-43c8975d"
   },
   {
     "word": "worship",
     "pos": "n., v.",
-    "meaning": "tôn thờ, thờphụng",
+    "meaning": "tôn thờ, thờ phụng",
     "example": "On the island the people worshiped different gods.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-worship-7b81f0a7"
   },
   {
     "word": "absorb",
     "pos": "v.",
     "meaning": "Hấp thu",
     "example": "Time is needed to absorb all this information",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-absorb-fcdc26ea"
   },
   {
     "word": "abstract",
     "pos": "adj.",
     "meaning": "Trừu tượng",
     "example": "Research shows that preschool children can think in abstract terms",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-abstract-b837eb6d"
   },
   {
     "word": "academy",
     "pos": "n.",
     "meaning": "Học viện",
     "example": "She trained at the Royal Academy of Music",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-academy-78d22c1a"
   },
   {
     "word": "accent",
     "pos": "n.",
     "meaning": "Giọng",
     "example": "She speaks English with a French accent",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-accent-27c1bc97"
   },
   {
     "word": "accomplish",
     "pos": "v.",
     "meaning": "Thực hiện, hoàn thành",
     "example": "The students accomplished the tasks in less than ten minutes",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-accomplish-dcd4e4cd"
   },
   {
-    "word": "accomplish",
-    "pos": "",
-    "meaning": "",
-    "example": "ment n. Thành tựu, thành tích Learning English is one of my greatest accomplishments",
-    "topic": "6: Education"
+    "word": "accomplishment",
+    "pos": "n.",
+    "meaning": "Thành tựu, thành tích",
+    "example": "Learning English is one of my greatest accomplishments",
+    "topic": "6: Education",
+    "id": "6-education-accomplishment-d92b2514"
   },
   {
     "word": "accumulate",
     "pos": "v.",
     "meaning": "Tích lũy, tích tụ",
     "example": "I have accumulated a lot of books",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-accumulate-e82ccd1f"
   },
   {
-    "word": "accumulatio",
-    "pos": "",
-    "meaning": "n n. Sựtích lũy, tích tụ",
+    "word": "accumulation",
+    "pos": "n.",
+    "meaning": "Sự tích lũy, tích tụ",
     "example": "The river became almost unrecognizable because of the accumulation of rubbish",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-accumulation-5c25f847"
   },
   {
     "word": "acquisition",
     "pos": "n.",
     "meaning": "Sựdành được, đạt được",
     "example": "There are different theories of child language acquisition",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-acquisition-cd0b0a3e"
   },
   {
     "word": "adaptation",
     "pos": "n.",
     "meaning": "Sựthich nghi, thich ứng",
     "example": "The process of adaptation to a new school is difficult for sone children",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-adaptation-0501e1ea"
   },
   {
     "word": "admission",
     "pos": "n.",
     "meaning": "Sựthu nạp, kết nạp",
     "example": "She failed to gain admission to the university of her choice",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-admission-57b0a097"
   },
   {
     "word": "allocate",
     "pos": "v.",
     "meaning": "Chỉđịnh, chia phần",
     "example": "Millions have been allocated to improve students' performance",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-allocate-7342f1d7"
   },
   {
     "word": "allocation",
     "pos": "n.",
     "meaning": "Sựchỉđịnh, chia phần",
     "example": "The allocation of food to those who need it most",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-allocation-5e54e763"
   },
   {
     "word": "analogy",
     "pos": "n.",
     "meaning": "Sựtương tự, giống nhau",
     "example": "The teacher draw an analogy between the human heart and a pump",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-analogy-642bd264"
   },
   {
     "word": "array",
     "pos": "n.",
     "meaning": "Dãy, chuỗi",
     "example": "The college offers a wide array of subjects",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-array-8a5c41f9"
   },
   {
     "word": "assign",
     "pos": "v.",
     "meaning": "Phân công",
     "example": "The teacher assigned each of the children a different task",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-assign-6b5f71e0"
   },
   {
     "word": "attain",
     "pos": "v.",
     "meaning": "Đạt được, giành được",
     "example": "Most of the students attained 'A' grades in their exams",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-attain-ed1a433d"
   },
   {
     "word": "attendance",
     "pos": "n.",
-    "meaning": "Sựcó mặt",
+    "meaning": "Sự có mặt",
     "example": "Attendance at these lectures is not compulsory",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-attendance-c54fe3ca"
   },
   {
     "word": "benchmark",
     "pos": "n.",
     "meaning": "Sựkiểm chuẩn",
     "example": "Tests provide a benchmark for future improvements",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-benchmark-ea20efd0"
   },
   {
     "word": "certificate",
     "pos": "n.",
     "meaning": "Chứng chỉ, bằng, văn bằng",
     "example": "A certificate of completion will be issued to all who complete the course.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-certificate-6018b5ca"
   },
   {
     "word": "compulsory",
     "pos": "adj.",
     "meaning": "Bắt buộc",
     "example": "English is a compulsory subject at this level",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-compulsory-b1eafd34"
   },
   {
     "word": "curriculum",
     "pos": "n.",
     "meaning": "Chương trình giảng dạy",
     "example": "Spanish is in the curriculum",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-curriculum-f5438d90"
   },
   {
     "word": "deputy",
     "pos": "n.",
     "meaning": "Người được ủy quyền, người đại diện",
     "example": "He was appointed deputy head of the school",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-deputy-c1b5e0ff"
   },
   {
     "word": "ease",
     "pos": "n., v.",
     "meaning": "Dễdàng",
     "example": "He passed the exam with ease",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-ease-87111b15"
   },
   {
     "word": "educator",
     "pos": "n.",
     "meaning": "Nhà sư phạm",
     "example": "The video is being used by health educators in remote areas",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-educator-7400ab33"
   },
   {
     "word": "elementary",
     "pos": "adj.",
     "meaning": "Sơ cấp, sơ đẳng",
     "example": "They offer elementary English courses",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-elementary-e8bf9854"
   },
   {
     "word": "enrol",
     "pos": "v.",
     "meaning": "Ghi tên vào, kết nạp vào",
     "example": "You need to enrol before the end of August",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-enrol-944baf8e"
   },
   {
     "word": "equip",
     "pos": "v.",
     "meaning": "Trang bị",
     "example": "The course is designed to equip students for a career in nursing",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-equip-8886f956"
   },
   {
     "word": "equivalent",
     "pos": "n., adj.",
     "meaning": "Tương đương/Vật tương đương",
-    "example": "Is there a French word that is the exact equivalent of the English word ‘home’?",
-    "topic": "6: Education"
+    "example": "Is there a French word that is the exact equivalent of the English word ‘home'?",
+    "topic": "6: Education",
+    "id": "6-education-equivalent-e63ca916"
   },
   {
     "word": "excellence",
     "pos": "n.",
-    "meaning": "Sựtrội, sựxuất sắc",
+    "meaning": "Sựtrội, sự xuất sắc",
     "example": "The college has a reputation for academic excellence",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-excellence-68dc691d"
   },
   {
     "word": "exclude",
     "pos": "v.",
     "meaning": "Loại trừ",
     "example": "She felt excluded by the other girls in her class",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-exclude-4e7fb029"
   },
   {
     "word": "exclusion",
     "pos": "n.",
     "meaning": "Sựngăn chặn, không cho vào the exclusion of disruptive students from school",
     "example": "",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-exclusion-ff8f1815"
   },
   {
     "word": "exclusive",
     "pos": "adj.",
     "meaning": "Riêng biệt, dành riêng",
     "example": "Some of the most prestigious institutions of higher learning in the US are also the country's most exclusive",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-exclusive-a6bb49cf"
   },
   {
     "word": "exclusively",
     "pos": "adv.",
     "meaning": "Chỉriêng cho",
     "example": "Most of the degree programmes are exclusively taught in English",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-exclusively-30748e15"
   },
   {
-    "word": "experimental adj.",
-    "pos": "",
+    "word": "experimental",
+    "pos": "adj.",
     "meaning": "Dựa trên thí nghiệm",
     "example": "The school's experimental teaching methods include letting the children decide what to study",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-experimental-1538cb79"
   },
   {
     "word": "extract",
     "pos": "n., v.",
     "meaning": "Đoạn trích",
     "example": "The extract is taken from a long essay",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-extract-7069eeba"
   },
   {
     "word": "facilitate",
     "pos": "v.",
     "meaning": "Làm cho dễdàng, tạo điều kiện dễdàng",
     "example": "Structured teaching facilitates learning",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-facilitate-1308d508"
   },
   {
     "word": "faculty",
     "pos": "n.",
-    "meaning": "",
-    "example": "Khoa Today the principal will meet students who are doing degrees in the Arts Faculty",
-    "topic": "6: Education"
+    "meaning": "Khoa",
+    "example": "Today the principal will meet students who are doing degrees in the Arts Faculty",
+    "topic": "6: Education",
+    "id": "6-education-faculty-4ab35ad1"
   },
   {
     "word": "foster",
     "pos": "v.",
     "meaning": "Khuyến khích, cổvũ Nhận nuôi (con của người khác)",
     "example": "I try to foster an appreciation for classical music in my students We couldn't adopt a child, so we decided to foster",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-foster-114409ca"
   },
   {
     "word": "guidance",
     "pos": "n.",
     "meaning": "Sựchỉđạo, hướng dẫn",
     "example": "The handbook gives helpful guidance on writing essays",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-guidance-ec533365"
   },
   {
     "word": "guideline",
     "pos": "n.",
     "meaning": "Nguyên tắc chỉđạo, đường lối chỉđạo",
     "example": "We encourage self-discipline in all students by setting clear guideline",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-guideline-099c0116"
   },
   {
     "word": "incorrect",
     "pos": "adj.",
     "meaning": "Không đúng, sai",
     "example": "The student gave an incorrect answer",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-incorrect-d51e5098"
   },
   {
     "word": "index",
     "pos": "n.",
     "meaning": "Bảng mục lục",
     "example": "Try looking up \"heart disease\" in the index",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-index-85e9d703"
   },
   {
     "word": "intellectual",
     "pos": "adj., n.",
     "meaning": "Thuộc trí tuệ; có tri thức, tài trí/Người tri thức",
     "example": "I don't think he has the intellectual skills necessary to study at this level",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-intellectual-c5090424"
   },
   {
     "word": "interact",
     "pos": "v.",
     "meaning": "Tương tác",
     "example": "Teachers have a limited amoutn of time to interact with each child",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-interact-79f30d11"
   },
   {
     "word": "interaction",
     "pos": "n.",
     "meaning": "Sựtương tác",
     "example": "Some modules require complete self-study and offer very little instruction or class interaction",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-interaction-45b4f715"
   },
   {
     "word": "interactive",
     "pos": "adj.",
     "meaning": "Mang tính tương tác",
     "example": "The school believes in using ICT to create an interactive learning experience",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-interactive-7954658c"
   },
   {
-    "word": "intermediate adj.",
-    "pos": "",
+    "word": "intermediate",
+    "pos": "adj.",
     "meaning": "Trung cấp",
     "example": "This is an intermediate course for those who have already mastered the basics of English grammar",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-intermediate-a69f072e"
   },
   {
     "word": "ironic",
     "pos": "adj.",
     "meaning": "mỉa mai, châm biếm",
     "example": "It is such an ironic comment",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-ironic-222da145"
   },
   {
     "word": "ironically",
     "pos": "adv.",
     "meaning": "một cách mỉa mai, châm biếm",
     "example": "The tone of the novel is ironically comic.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-ironically-a89ff8b5"
   },
   {
     "word": "irony",
     "pos": "n.",
-    "meaning": "sựmỉa mai, sựchâm biếm",
+    "meaning": "sựmỉa mai, sự châm biếm",
     "example": "There was a note of irony in his voice.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-irony-7a473dbc"
   },
   {
     "word": "literacy",
     "pos": "n.",
-    "meaning": "sựbiết viết biết đọc",
+    "meaning": "sự biết viết biết đọc",
     "example": "Most of the students here need help with literacy and numeracy.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-literacy-900fbba3"
   },
   {
     "word": "literary",
     "pos": "adj.",
     "meaning": "(thuộc) văn chương, (thuộc) văn học",
     "example": "Her internationally acclaimed novel has won several literary prizes.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-literary-fa5af899"
   },
   {
     "word": "mathematica",
     "pos": "",
     "meaning": "l",
-    "example": "adj. [thuộc] toán học The schools need to assess children’s mathematical ability",
-    "topic": "6: Education"
+    "example": "adj. [thuộc] toán học The schools need to assess children's mathematical ability",
+    "topic": "6: Education",
+    "id": "6-education-mathematica-d8829bda"
   },
   {
     "word": "methodolog",
     "pos": "",
     "meaning": "y n. phương pháp học",
     "example": "There are recent changes in the methodology of language teaching.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-methodolog-876621dd"
   },
   {
     "word": "neglect",
     "pos": "v., n.",
     "meaning": "sao lãng, lơ là",
     "example": "She's been neglecting her studies this semester.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-neglect-720749b7"
   },
   {
     "word": "notebook",
     "pos": "n.",
-    "meaning": "sổtay",
+    "meaning": "sổ tay",
     "example": "I carry a notebook so that I can jot down any ideas.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-notebook-9ce4b51f"
   },
   {
     "word": "novelist",
     "pos": "n.",
     "meaning": "người viết tiểu thuyết",
     "example": "I would class her among the top ten American novelists.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-novelist-95885be1"
   },
   {
     "word": "nursery",
     "pos": "n.",
     "meaning": "nhà trẻ",
     "example": "This type of nursery care may well be the best choice for your child.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-nursery-be2c3c9b"
   },
   {
     "word": "opt",
     "pos": "v.",
     "meaning": "chọn",
     "example": "Fewer students are opting for science courses nowadays.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-opt-3c6b20a6"
   },
   {
     "word": "oral",
     "pos": "adj.",
     "meaning": "bằng lời nói; nói miệng",
     "example": "Only in borderline cases will pupils have an oral exam.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-oral-66986ac2"
   },
   {
     "word": "pad",
     "pos": "n.",
     "meaning": "tập giấy",
     "example": "She always kept a pad and pencil by the phone.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-pad-c2fa10c7"
   },
   {
-    "word": "participation n.",
-    "pos": "",
+    "word": "participation",
+    "pos": "n.",
     "meaning": "sựtham gia, sựtham dự",
     "example": "We encourage students to participate fully in the running of the college.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-participation-08544293"
   },
   {
     "word": "peer",
     "pos": "n.",
     "meaning": "người ngang địa vị; người ngang hàng",
     "example": "He wasn't a great scholar, but as a teacher he had few peers.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-peer-a30f60df"
   },
   {
     "word": "philosopher",
     "pos": "n.",
     "meaning": "nhà triết học, triết gia",
     "example": "We studied the writings of the Greek philosopher Aristotle.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-philosopher-0a87ad6b"
   },
   {
     "word": "philosophica",
     "pos": "",
     "meaning": "l",
     "example": "adj. (thuộc) triết học; theo triết học There are many philosophical writings/essays.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-philosophica-bc5e5e57"
   },
   {
     "word": "postpone",
     "pos": "v.",
     "meaning": "hoãn",
     "example": "The exams have been postponed until next month.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-postpone-0bf9bb34"
   },
   {
     "word": "potentially",
     "pos": "adv.",
     "meaning": "tiềm năng, tiềm tàng",
     "example": "This crisis is potentially the most serious in the organization's history.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-potentially-2788d1d4"
   },
   {
     "word": "practitioner",
     "pos": "n.",
     "meaning": "người thực hành một kỹ năng, người hành nghề",
     "example": "He has years of experience as a senior practitioner in the financial services industry.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-practitioner-a7db8458"
   },
   {
     "word": "premise",
     "pos": "n.",
     "meaning": "giảthuyết, tiền đề",
     "example": "They had started with the premise that all men are created equal. The argument rests on a false premise.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-premise-f77a95e0"
   },
   {
     "word": "prestigious",
     "pos": "adj.",
     "meaning": "có uy tín, có thanh thế, đem lại uy tín",
     "example": "My parents wanted me to go to a more prestigious university.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-prestigious-16acefbd"
   },
   {
     "word": "privilege",
     "pos": "n.",
     "meaning": "đặc ân, đặc quyền",
     "example": "Education should be a universal right and not a privilege.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-privilege-d0fbc362"
   },
   {
     "word": "progressive",
     "pos": "adj.",
     "meaning": "lũy tiến, tăng tiến tiến bộ",
     "example": "We are currently witnessing a progressive decline in the number of students entering higher education.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-progressive-101840b6"
   },
   {
     "word": "punch",
     "pos": "n., v.",
     "meaning": "một cú đấm sức hút mạnh, ảnh hưởng mạnh",
     "example": "I felt the performance/speech/presentation lacked punch. The boxer was felled by a punch to the head.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-punch-b95b4813"
   },
   {
     "word": "ranking",
     "pos": "n.",
     "meaning": "sựxếp hạng, vịtrí xếp hạng",
     "example": "She has retained her No.1 world ranking in tennis",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-ranking-90430ffa"
   },
   {
     "word": "ratio",
     "pos": "n.",
     "meaning": "tỷsố, tỷlệ",
     "example": "The school has a very high teacher-student ratio.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-ratio-89100618"
   },
   {
     "word": "registration",
     "pos": "n.",
     "meaning": "sựđăng kí",
     "example": "Registration for the course will take place a week before the start of term.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-registration-a990c0ea"
   },
   {
     "word": "remainder",
     "pos": "n.",
     "meaning": "phần còn lại",
-    "example": "",
-    "topic": "6: Education"
-  },
-  {
-    "word": "divided by 4 is 2, remainder 1.",
-    "pos": "",
-    "meaning": "",
-    "example": "",
-    "topic": "6: Education"
+    "example": "9 divided by 4 is 2, remainder 1.",
+    "topic": "6: Education",
+    "id": "6-education-remainder-aa7f71d4"
   },
   {
     "word": "revision",
     "pos": "n.",
     "meaning": "sựđọc lại, ôn lại bài vở",
     "example": "She did no revision, but she still got a very high mark.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-revision-ee73d260"
   },
   {
     "word": "scholar",
     "pos": "n.",
     "meaning": "Nhà nghiên cứu; học giả",
     "example": "He was the most distinguished scholar in his field.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-scholar-13ec488e"
   },
   {
     "word": "scholarship",
     "pos": "n.",
     "meaning": "học bổng",
     "example": "She won a scholarship to study at Stanford.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-scholarship-d06fe69a"
   },
   {
     "word": "seminar",
     "pos": "n.",
     "meaning": "hội nghịchuyên đề",
     "example": "Teaching is by lectures and seminars.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-seminar-67573e5f"
   },
   {
     "word": "skip",
     "pos": "v.",
     "meaning": "nhảy, bỏqua",
     "example": "I often skip breakfast altogether. She decided to skip class that afternoon.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-skip-01b12a73"
   },
   {
     "word": "stimulate",
     "pos": "v.",
     "meaning": "Khuyến khích, thúc đẩy ai đó",
     "example": "Good teachers should ask questions that stimulate students to think.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-stimulate-56408a58"
   },
   {
     "word": "stimulus",
     "pos": "n.",
     "meaning": "sựkhuyến khích",
     "example": "The teacher's praise is a stimulus to work harder.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-stimulus-a7a418df"
   },
   {
     "word": "suspend",
     "pos": "v.",
     "meaning": "đình chỉ(học, công tác...)",
     "example": "She was suspended from school for fighting.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-suspend-78eb8afb"
   },
   {
     "word": "suspension",
     "pos": "n.",
     "meaning": "sựđình chỉ(học, công tác...)",
     "example": "The school is imposing the suspension of indisciplined pupils from school.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-suspension-4eabd93d"
   },
   {
     "word": "tenure",
     "pos": "n.",
-    "meaning": "thời gian nắm giữchức vụ",
+    "meaning": "thời gian nắm giữ chức vụ",
     "example": "During his tenure as dean, he had a real influence on the students.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-tenure-df8db756"
   },
   {
     "word": "textbook",
     "pos": "n.",
     "meaning": "Sách giáo khoa",
     "example": "I would not recommend it as a classroom textbook",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-textbook-2d9f5c7e"
   },
   {
     "word": "thesis",
     "pos": "n.",
     "meaning": "Luận đề, luận cương, luận văn, luận án",
     "example": "Students must submit a thesis on an agreed subject within four years",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-thesis-ea18dd15"
   },
   {
     "word": "thorough",
     "pos": "adj.",
     "meaning": "Kỹlưỡng, tỉmỉ",
     "example": "You will need a thorough understanding of the subject",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-thorough-cc5e062d"
   },
   {
     "word": "thoroughly",
     "pos": "adv.",
     "meaning": "Một cách hoàn toàn",
     "example": "You will need to read the textbook thoroughly",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-thoroughly-a8d03aa5"
   },
   {
     "word": "tuition",
     "pos": "n.",
-    "meaning": "Sựdạy học; sựkèm học",
+    "meaning": "Sự dạy học; sự kèm học",
     "example": "She received private tuition in French",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-tuition-c4d72e2a"
   },
   {
     "word": "undergradua",
     "pos": "",
     "meaning": "te n. sinh viên đại học",
     "example": "It is important for undergraduates to attend this seminar.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-undergradua-18f0df2e"
   },
   {
     "word": "undertake",
     "pos": "v.",
     "meaning": "đảm nhận, thực hiện cái gì",
     "example": "Students are required to undertake simple experiments.",
-    "topic": "6: Education"
+    "topic": "6: Education",
+    "id": "6-education-undertake-27895845"
   },
   {
     "word": "verse",
     "pos": "n.",
     "meaning": "thơ",
     "example": "At the end of the course, we need to analyze several verses of Shakespeare.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-verse-8ec4ae0a"
   },
   {
     "word": "aesthetic",
     "pos": "adj.",
     "meaning": "Thẩm mỹ",
     "example": "The songs have an aesthetic appeal to them",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-aesthetic-198445ce"
   },
   {
     "word": "amusing",
     "pos": "adj.",
     "meaning": "Hài hước",
     "example": "It was a very amusing film",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-amusing-5646f150"
   },
   {
     "word": "animation",
     "pos": "n.",
     "meaning": "Hoạt hình",
     "example": "The first animation ever was made in the 1900s",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-animation-9d275d7f"
   },
   {
     "word": "anonymous",
     "pos": "adj.",
     "meaning": "Ẩn danh",
     "example": "His face was blurred out in the interview clip because he wished to remain anonymous",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-anonymous-dde3d07e"
   },
   {
     "word": "anticipate",
     "pos": "v.",
     "meaning": "Dựđoán, lường trước",
     "example": "The eagerly anticipated movie will be released next month",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-anticipate-89daaba9"
   },
   {
     "word": "artwork",
     "pos": "n.",
     "meaning": "Ảnh và minh họa trên sách báo",
     "example": "Can you send me the finished artwork for the poster before Friday?",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-artwork-d46c8e62"
   },
   {
     "word": "audio",
     "pos": "adj.",
-    "meaning": "Thuộc vềâm thanh",
+    "meaning": "Thuộc về âm thanh",
     "example": "The audio quality at the show was really poor",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-audio-2aafa5a1"
   },
   {
     "word": "authentic",
     "pos": "adj.",
     "meaning": "Đích thực, xác thực",
     "example": "I'm not sure if the painting is authentic",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-authentic-03370138"
   },
   {
     "word": "bass1",
     "pos": "n.",
     "meaning": "Âm trầm",
     "example": "He sings bass in our local choir",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-bass1-f411fe26"
   },
   {
     "word": "biography",
     "pos": "n.",
     "meaning": "Tiểu sử",
     "example": "The book gives potted biographies of all the major painters",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-biography-bbb2ceb2"
   },
   {
     "word": "bow1",
     "pos": "v., n.",
     "meaning": "Cúi chào",
     "example": "He bowed low to the assembled crowd",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-bow1-16f4a3a8"
   },
   {
     "word": "broadcaster",
     "pos": "n.",
     "meaning": "Phát thanh viên",
     "example": "She is a writer and broadcaster on environmental matters",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-broadcaster-29380a04"
   },
   {
     "word": "choir",
     "pos": "n.",
     "meaning": "Đội hát",
     "example": "The children's choir will perform some Christmas songs",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-choir-175505e0"
   },
   {
     "word": "classificatio",
     "pos": "",
-    "meaning": "n n. Sựphân loại",
+    "meaning": "n n. Sự phân loại",
     "example": "It's a style of music that defies classification",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-classificatio-6597baf6"
   },
   {
     "word": "classify",
     "pos": "v.",
     "meaning": "Phân loại",
     "example": "The records are classified according to genre",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-classify-433b6614"
   },
   {
     "word": "clip",
     "pos": "n.",
     "meaning": "Đoạn phim ngắn",
     "example": "Here is a clip from her latest movie",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-clip-1336ca09"
   },
   {
     "word": "compose",
     "pos": "v.",
     "meaning": "Sáng tác",
     "example": "Mozart composed his last opera shortly before he died",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-compose-c0f08bdd"
   },
   {
     "word": "composer",
     "pos": "n.",
     "meaning": "Nhà soạn nhạc",
     "example": "Verdi was a prolific composer of operas",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-composer-062d3317"
   },
   {
-    "word": "composition n.",
-    "pos": "",
+    "word": "composition",
+    "pos": "n.",
     "meaning": "Bài sáng tác",
-    "example": "Moonlight Sonata was one of Beethoven’s finest compositions",
-    "topic": "7: Entertainment and Media"
+    "example": "Moonlight Sonata was one of Beethoven's finest compositions",
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-composition-1dc8634b"
   },
   {
     "word": "comprise",
     "pos": "v.",
     "meaning": "Bao gồm, gồm có",
     "example": "The collection comprises 327 paintings",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-comprise-09ebeb13"
   },
   {
     "word": "contributor",
     "pos": "n.",
     "meaning": "Người đóng góp",
     "example": "I am a contributor to several blogs",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-contributor-5c53b51e"
   },
   {
     "word": "copyright",
     "pos": "n.",
     "meaning": "Bản quyền",
     "example": "Who owns the copyright on this song?",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-copyright-1e4bdf30"
   },
   {
     "word": "coverage",
     "pos": "n.",
     "meaning": "Sựđưa tin, tường thuật",
     "example": "Media coverage of the march focused on the few fights that broke out",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-coverage-ace29df3"
   },
   {
     "word": "cutting",
     "pos": "n.",
     "meaning": "Bài báo cắt ra/Cành giâm",
     "example": "She had kept all the press cuttings about the murder.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-cutting-fc61eb14"
   },
   {
     "word": "debut",
     "pos": "n.",
     "meaning": "Buổi ra mắt đầu tiên trước công chúng",
-    "example": "The band’s debut album was a huge success",
-    "topic": "7: Entertainment and Media"
+    "example": "The band's debut album was a huge success",
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-debut-22a1035a"
   },
   {
     "word": "depict",
     "pos": "v.",
     "meaning": "Tả, mô tả",
     "example": "The artist had depicted her lying on a bed",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-depict-0a2abff6"
   },
   {
     "word": "disclose",
     "pos": "v.",
     "meaning": "Đểlộra; tiết lộ",
     "example": "She refused to disclose the source of her information",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-disclose-580cbcc8"
   },
   {
     "word": "disclosure",
     "pos": "n.",
     "meaning": "Sựtiết lộ",
     "example": "The newspaper made damaging disclosures of management incompetence",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-disclosure-03990086"
   },
   {
     "word": "distort",
     "pos": "v.",
     "meaning": "Làm méo mó, bóp méo",
     "example": "Newspapers are often guilty of distorting the truth",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-distort-a0d56618"
   },
   {
     "word": "dub",
     "pos": "v.",
     "meaning": "Gán cho một biệt danh",
-    "example": "The media dubbed anorexia ‘the slimming disease’",
-    "topic": "7: Entertainment and Media"
+    "example": "The media dubbed anorexia ‘the slimming disease'",
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-dub-eaeebd6f"
   },
   {
     "word": "duo",
     "pos": "n.",
     "meaning": "Đôi, cặp biểu diễn",
     "example": "The famous magician duo Penn & Teller is having a new TV show",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-duo-8c422161"
   },
   {
     "word": "editorial",
     "pos": "adj.",
     "meaning": "Thuộc công tác biên tập",
     "example": "The paper follows an editorial policy that puts great emphasis on foreign news",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-editorial-7f363d31"
   },
   {
     "word": "enrich",
     "pos": "v.",
     "meaning": "Làm giàu thêm",
     "example": "Reading good literature can enrich all our lives",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-enrich-ca019a83"
   },
   {
     "word": "essence",
     "pos": "n.",
     "meaning": "Thực chất, bản chất",
     "example": "His paintings capture the essence of France",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-essence-54b6806c"
   },
   {
     "word": "essentially",
     "pos": "adv.",
     "meaning": "Vềcơ bản",
     "example": "Although she made intermittent movie appearances, she was essentially a stage actres",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-essentially-60e3b475"
   },
   {
     "word": "evoke",
     "pos": "v.",
     "meaning": "Gợi lên, gợi nhớ",
     "example": "The music evoked memories of her youth",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-evoke-7abefd17"
   },
   {
     "word": "exhibit",
     "pos": "v., n.",
     "meaning": "Trưng bày, triển lãm",
     "example": "Only one painting was exhibited in the artist's lifetime",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-exhibit-d6bc7262"
   },
   {
     "word": "fame",
     "pos": "n.",
     "meaning": "Danh tiếng, tiếng tăm",
     "example": "She found fame on the Broadway stage",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-fame-70dd9ce1"
   },
   {
     "word": "film-maker",
     "pos": "n.",
     "meaning": "Nhà làm phim",
     "example": "Alfred Hitchcock is one of the most influential filmmakers of all time",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-film-maker-f3d018f8"
   },
   {
     "word": "footage",
     "pos": "n.",
     "meaning": "Đoạn phim",
     "example": "The film contained some old newsreel footage",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-footage-1d23a044"
   },
   {
     "word": "genuine",
     "pos": "adj.",
     "meaning": "Thật, đích thực",
     "example": "Is the painting a genuine Picasso? Thành thật, chân thật He came across as a very genuine person",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-genuine-6a014dce"
   },
   {
     "word": "genuinely",
     "pos": "adv.",
     "meaning": "Một cách thành thật, chân thật",
     "example": "There are some genuinely funny moments in the film She was genuinely sorry",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-genuinely-65ed84b7"
   },
   {
     "word": "gig",
     "pos": "n.",
     "meaning": "(khẩu ngữ) sựbiểu diễn một đêm nhạc",
     "example": "He played with the band at a recent gig",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-gig-d558f4d4"
   },
   {
     "word": "imagery",
     "pos": "n.",
     "meaning": "Hình tượng",
     "example": "The poem is full of religious imagery",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-imagery-16ef1afa"
   },
   {
     "word": "influential",
     "pos": "adj.",
     "meaning": "Có ảnh hưởng, tác động; có uy thế, quyền lực",
     "example": "Beethoven is one of the most influential composers of all time",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-influential-436589f4"
   },
   {
     "word": "ink",
     "pos": "n.",
     "meaning": "Mực",
     "example": "Be careful. The ink is still wet",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-ink-8ed3ebc2"
   },
   {
     "word": "inspiration",
     "pos": "n.",
     "meaning": "Cảm hứng",
     "example": "Love is a rich source of inspiration for an artist",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-inspiration-deb5bdf6"
   },
   {
     "word": "journalism",
     "pos": "n.",
     "meaning": "nghềlàm báo",
     "example": "My son's planning to go into journalism.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-journalism-8e5aaa50"
   },
   {
     "word": "leaflet",
     "pos": "n.",
     "meaning": "tờquảng cáo rời",
     "example": "A leaflet about the new bus services came through the door today.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-leaflet-3a9a2aa0"
   },
   {
     "word": "line-up",
     "pos": "n.",
     "meaning": "hàng người, đội ngũ",
     "example": "We've got a star-studded line-up of guests on tonight's show.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-line-up-7b5c3bb2"
   },
   {
     "word": "listing",
     "pos": "n.",
     "meaning": "sựlập danh sách",
     "example": "To find the correct TV channel, check the listings in your local newspaper.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-listing-ee66e501"
   },
   {
     "word": "logo",
     "pos": "n.",
     "meaning": "biểu tượng",
     "example": "All over the world there are red and white paper cups bearing the company logo.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-logo-a5ea355f"
   },
   {
     "word": "lyric",
     "pos": "n.",
     "meaning": "(thường sốnhiều) lời ca",
     "example": "Paul Simon writes the lyrics for most of his songs.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-lyric-5ca6c82c"
   },
   {
     "word": "mainstream",
     "pos": "n., adj.",
     "meaning": "thịnh hành",
     "example": "This is the director's first mainstream Hollywood film.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-mainstream-44bea1a4"
   },
   {
     "word": "making",
     "pos": "n.",
     "meaning": "quá trình/ hoạt động sản xuất There's an article on the making of the series.",
     "example": "",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-making-c3a5f060"
   },
   {
     "word": "manuscript",
     "pos": "n.",
     "meaning": "bản thảo",
     "example": "She has submitted a manuscript to an editor",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-manuscript-0c8e39e3"
   },
   {
     "word": "mask",
     "pos": "n.",
     "meaning": "mặt nạ",
     "example": "In the second part of the play, the actors take off their masks.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-mask-93ff9c59"
   },
   {
     "word": "melody",
     "pos": "n.",
     "meaning": "giai điệu",
     "example": "He played a few well-known melodies. His songs are always strong on melody.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-melody-66c09ed4"
   },
   {
     "word": "memoir",
     "pos": "n.",
     "meaning": "ký sự",
     "example": "She has written a memoir of her encounters with famous movie stars over the years.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-memoir-fb2deb62"
   },
   {
     "word": "merit",
     "pos": "n.",
     "meaning": "giá trị",
     "example": "Brierley's book has the merit of being both informative and readable.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-merit-f92afb6a"
   },
   {
     "word": "misleading",
     "pos": "adj.",
     "meaning": "lừa dối, gây lạc hướng",
     "example": "Adverts must not create a misleading impression.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-misleading-b4ca884e"
   },
   {
     "word": "motion",
     "pos": "n.",
     "meaning": "sựchuyển động điệu bộ",
     "example": "Parts of the film were shown again in slow motion She has a very graceful motion",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-motion-d9e6b239"
   },
   {
     "word": "newsletter",
     "pos": "n.",
     "meaning": "bản tin",
     "example": "You did a good job on the brevity of this newsletter this week.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-newsletter-8cab802c"
   },
   {
     "word": "opera",
     "pos": "n.",
     "meaning": "opera, nhạc kịch",
     "example": "\"Carmen\" is my favourite opera.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-opera-1d5cab89"
   },
   {
     "word": "orchestra",
     "pos": "n.",
     "meaning": "dàn nhạc",
     "example": "He plays the flute in an orchestra.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-orchestra-f02ba8d2"
   },
   {
     "word": "outstanding",
     "pos": "adj.",
     "meaning": "xuất sắc, nổi bật",
     "example": "Her outstanding performances set a new benchmark for singers throughout the world.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-outstanding-149dd7a0"
   },
   {
     "word": "overly",
     "pos": "adv.",
     "meaning": "(trước tính từ, động từ) quá, quá mức",
     "example": "His films have been criticized for being overly violent.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-overly-c07cf5e6"
   },
   {
     "word": "portray",
     "pos": "v.",
     "meaning": "vẽchân dung (của ai)",
     "example": "The painting portrays a beautiful young woman in a blue dress.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-portray-48a80fd6"
   },
   {
     "word": "probe",
     "pos": "n., v.",
     "meaning": "dò xét, thăm dò",
     "example": "The interviewer probed deep into her private life. The article probes (= tries to describe and explain) the mysteries of nationalism in modern Europe. Detectives questioned him for hours, probing for any inconsistencies in his story.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-probe-82b252e4"
   },
   {
     "word": "publicity",
     "pos": "n.",
     "meaning": "sựcông khai, làm cho mọi người biết đến sựquảng cáo, rao hàng",
     "example": "There has been a lot of advance publicity for her new film.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-publicity-a5009bff"
   },
   {
     "word": "publishing",
     "pos": "n.",
     "meaning": "công việc xuất bản, ngành xuất bản",
     "example": "She used to be a teacher, but now she works in publishing.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-publishing-350dac8f"
   },
   {
     "word": "punk",
     "pos": "n.",
     "meaning": "một loại nhạc rock phổbiến thập niên 70-80 người mang phong cách punk They love this punk band.",
     "example": "",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-punk-651c1ff2"
   },
   {
     "word": "puzzle",
     "pos": "n.",
     "meaning": "câu đố, sựbí ẩn",
     "example": "The deeper meaning of the poem remains a puzzle.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-puzzle-2d5bd84f"
   },
   {
     "word": "rating",
     "pos": "n.",
     "meaning": "sựđánh giá, xếp loại một sự vật/việc/người tốt, phổbiến như thếnào",
-    "example": "‘The Big Bang Theory’ was the network show with the highest rating.",
-    "topic": "7: Entertainment and Media"
+    "example": "‘The Big Bang Theory' was the network show with the highest rating.",
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-rating-f3a78823"
   },
   {
     "word": "renowned",
     "pos": "adj.",
     "meaning": "nổi tiếng, có tiếng",
     "example": "She is renowned as an actress.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-renowned-3316b6f7"
   },
   {
     "word": "reportedly",
     "pos": "adv.",
     "meaning": "theo như tường trình, theo như đưa tin",
     "example": "The actress is reportedly very upset by the incident.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-reportedly-477df756"
   },
   {
     "word": "reporting",
     "pos": "n.",
     "meaning": "bản tin (báo chí)",
     "example": "Reporting restrictions on the trial have been lifted",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-reporting-255a78bf"
   },
   {
     "word": "revelation",
     "pos": "n.",
     "meaning": "sựtiết lộ",
     "example": "Shocking revelations about their private life appeared in the papers.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-revelation-069923ab"
   },
   {
     "word": "revival",
     "pos": "n.",
-    "meaning": "sựphục hồi, hồi sinh lại",
+    "meaning": "sự phục hồi, hồi sinh lại",
     "example": "Recently, there has been some revival of interest in ancient music.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-revival-44a9b280"
   },
   {
     "word": "rock",
     "pos": "v.",
     "meaning": "[làm] rung chuyển, làm náo động",
     "example": "the town was rocked by an earthquake",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-rock-7ea0d813"
   },
   {
     "word": "scandal",
     "pos": "n.",
     "meaning": "Vụbê bối, vụtai tiếng, xì căng đan, chuyện gây xôn xao dư luận",
     "example": "There has been no hint of scandal during his time in office. People can find newspapers full of scandal",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-scandal-5d79338e"
   },
   {
     "word": "screening",
     "pos": "n.",
     "meaning": "Sựchiếu một bộphim (một chương trình..)",
     "example": "This will be the movie's first screening in this country.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-screening-bd6469c2"
   },
   {
     "word": "shocking",
     "pos": "adj.",
     "meaning": "Gây ra sửng sốt, khích động",
     "example": "It is shocking that they involved children in the crime.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-shocking-dab8155b"
   },
   {
     "word": "sketch",
     "pos": "n.",
     "meaning": "Bức vẽphác, bức phác hoạ Vẽphác, phác hoạ",
     "example": "The artist is making sketches for his next painting.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-sketch-a54fab23"
   },
   {
     "word": "slogan",
     "pos": "n.",
     "meaning": "Khẩu hiệu",
     "example": "The crowd began chanting anti-government slogans.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-slogan-d4732471"
   },
   {
     "word": "solo",
     "pos": "adj., n.",
     "meaning": "đơn ca, độc tấu một mình",
     "example": "After three years with the band he decided to go solo.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-solo-3375c37b"
   },
   {
     "word": "spectacle",
     "pos": "n.",
     "meaning": "sựtrình diễn, sựbiểu diễn",
     "example": "The carnival was a magnificent spectacle.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-spectacle-cf41ba93"
   },
   {
-    "word": "sponsorship n.",
-    "pos": "",
+    "word": "sponsorship",
+    "pos": "n.",
     "meaning": "sựtài trợ",
     "example": "The orchestra receives £2 million a year in sponsorship from companies.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-sponsorship-d16640aa"
   },
   {
     "word": "spotlight",
     "pos": "n.",
     "meaning": "ánh đèn sân khấu",
     "example": "Spotlights followed the two dancers around the stage.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-spotlight-834c04e8"
   },
   {
     "word": "super",
     "pos": "adj.",
     "meaning": "tuyệt vời, cực kì tốt",
     "example": "\"Did you enjoy the film?\" \"Yes, I thought it was super.\"",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-super-36608bf7"
   },
   {
     "word": "superb",
     "pos": "adj.",
     "meaning": "tuyệt vời, tài giỏi",
     "example": "He is a superb dancer.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-superb-fd7591bb"
   },
   {
     "word": "theatrical",
     "pos": "adj.",
     "meaning": "Thuộc sân khấu",
     "example": "Dance is a very theatrical art",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-theatrical-314c7e9a"
   },
   {
-    "word": "thought-pro",
-    "pos": "",
-    "meaning": "",
-    "example": "voking adj. Đáng suy nghĩ, kích thích tư duy This is an entertaining yet thought-provoking film",
-    "topic": "7: Entertainment and Media"
+    "word": "thought-provoking",
+    "pos": "adj.",
+    "meaning": "Đáng suy nghĩ, kích thích tư duy",
+    "example": "This is an entertaining yet thought-provoking film",
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-thought-provoking-9d24e659"
   },
   {
     "word": "trio",
     "pos": "n.",
     "meaning": "Bộba",
     "example": "The singing trio were on tour all winter",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-trio-5264ac79"
   },
   {
     "word": "unfold",
     "pos": "v.",
     "meaning": "đểlộ, làm bộc lộ",
     "example": "Gradually, the reporter unfolded the president's scandals.",
-    "topic": "7: Entertainment and Media"
+    "topic": "7: Entertainment and Media",
+    "id": "7-entertainment-and-media-unfold-da6041d3"
   },
   {
     "word": "vocal",
     "pos": "adj.",
     "meaning": "thuộc phát âm, liên quan đến phát âm",
     "example": "I played some vocal music.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-vocal-d463159d"
   },
   {
     "word": "abundance",
     "pos": "n.",
     "meaning": "Sựphong phú",
     "example": "The rainforest has an abundance of wildlife",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-abundance-29a94c42"
   },
   {
     "word": "acid",
     "pos": "n., adj.",
-    "meaning": "",
-    "example": "Axit In some areas, severe air pollution has resulted in acid rain It's a very juicy fruit with a slightly acid flavor",
-    "topic": "8: Environment and the Natural World"
+    "meaning": "Axit",
+    "example": "In some areas, severe air pollution has resulted in acid rain. It's a very juicy fruit with a slightly acid flavor",
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-acid-136e0785"
   },
   {
     "word": "acre",
     "pos": "n.",
     "meaning": "Mẫu Anh (đơn vịđo diện tích)",
     "example": "There are 3000 acres of parkland in this region",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-acre-e581cae5"
   },
   {
     "word": "activist",
     "pos": "n.",
     "meaning": "Nhà hoạt động xã hội/chính trị",
     "example": "Thousands of environmental activists are marching to demand action on climate change",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-activist-9569e6d6"
   },
   {
     "word": "advocate",
     "pos": "n., v.",
     "meaning": "Người tán thành, ủng hộ",
     "example": "He's an advocate of newable energy",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-advocate-3d043ef5"
   },
   {
     "word": "ancestor",
     "pos": "n.",
     "meaning": "Tổtiên",
     "example": "A reptile was the common ancestor of lizards and turtles",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-ancestor-6103df14"
   },
   {
     "word": "ash",
     "pos": "n.",
     "meaning": "Tro",
     "example": "Ash from the volcano fell over a wide area",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-ash-24b55774"
   },
   {
     "word": "awareness",
     "pos": "n.",
     "meaning": "Nhận thức",
     "example": "Now, more than ever, we need to increase public awareness about environmental problems",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-awareness-5c292030"
   },
   {
     "word": "banner",
     "pos": "n.",
     "meaning": "Biểu ngữ",
-    "example": "Protesters carried a banner reading ‘Save our Wildlife’",
-    "topic": "8: Environment and the Natural World"
+    "example": "Protesters carried a banner reading ‘Save our Wildlife'",
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-banner-2331fc15"
   },
   {
     "word": "bare",
     "pos": "adj.",
     "meaning": "Trần, trọc",
     "example": "We looked out over a bare, open landscape, stripped of vegetation",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-bare-306f4371"
   },
   {
     "word": "beast",
     "pos": "n.",
     "meaning": "Thú vật",
     "example": "He was ripped apart by wild beasts in the forest",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-beast-94014a3f"
   },
   {
     "word": "breed",
     "pos": "v., n.",
     "meaning": "Sinh, đẻ, nhân giống",
     "example": "Many animals breed only at certain times of the year",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-breed-7800e6fb"
   },
   {
     "word": "bug",
     "pos": "n.",
     "meaning": "Sâu bọ/Lỗi máy tính",
-    "example": "There's a bug crawling up your arm My computer's really slow at the moment—it must be some kind of bug",
-    "topic": "8: Environment and the Natural World"
+    "example": "There's a bug crawling up your arm My computer's really slow at the moment-it must be some kind of bug",
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-bug-f8cd4ff1"
   },
   {
     "word": "carbon",
     "pos": "n.",
-    "meaning": "",
-    "example": "Cacbon Carbon emissions are rising at an alarming rate",
-    "topic": "8: Environment and the Natural World"
+    "meaning": "Cacbon",
+    "example": "Carbon emissions are rising at an alarming rate",
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-carbon-05d5be55"
   },
   {
     "word": "cling",
     "pos": "v.",
     "meaning": "Bám chặt vào",
     "example": "Leaves still clung to the branches",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-cling-56f0c78d"
   },
   {
     "word": "compound",
     "pos": "n.",
     "meaning": "Hợp chất",
     "example": "Compounds derived from plants are used as organic fertilizer",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-compound-49600af5"
   },
   {
-    "word": "conservation n.",
-    "pos": "",
-    "meaning": "Sựbảo tồn",
+    "word": "conservation",
+    "pos": "n.",
+    "meaning": "Sự bảo tồn",
     "example": "There is a national park and conservation area in this region",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-conservation-4fcec47f"
   },
   {
     "word": "conserve",
     "pos": "v.",
     "meaning": "Bảo tồn",
     "example": "Renewable energy resources can help conserve fossil fuels and reduce carbon emissions",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-conserve-f6dc9ac9"
   },
   {
     "word": "dam",
     "pos": "n.",
     "meaning": "Đập",
     "example": "The dam burst and the valley was flooded",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-dam-6c80b1e3"
   },
   {
     "word": "designate",
     "pos": "v.",
     "meaning": "Chỉđịnh",
     "example": "This area is a designated nature reserve",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-designate-2826fe9a"
   },
   {
     "word": "destruction",
     "pos": "n.",
     "meaning": "Sựphá hoại, hủy hoại",
     "example": "The destruction of the rainforests is one of the most important driving forces of climate change",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-destruction-5bfcc525"
   },
   {
     "word": "destructive",
     "pos": "adj.",
     "meaning": "Mang tính phá hoại, hủy diệt",
     "example": "Coal mining is among the most environmentally destructive activities",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-destructive-07f617e9"
   },
   {
     "word": "diminish",
     "pos": "v.",
     "meaning": "Bớt, giảm bớt",
     "example": "The world's resources are rapidly diminishing",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-diminish-d336464d"
   },
   {
     "word": "disastrous",
     "pos": "adj.",
     "meaning": "Tai họa, thảm hại",
     "example": "Pollution can have disastrous effects on the delicately balanced ecosystem",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-disastrous-0d5292c0"
   },
   {
     "word": "discard",
     "pos": "v.",
     "meaning": "Bỏ, loại bỏ, vứt bỏ",
     "example": "The grass was littered with discarded plastic bags",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-discard-4273412a"
   },
   {
     "word": "disposal",
     "pos": "n.",
     "meaning": "Sựvứt bỏ",
     "example": "The waste must be taken to an approved disposal facility",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-disposal-b39ff5bd"
   },
   {
     "word": "dispose",
     "pos": "v.",
     "meaning": "Vứt bỏ",
     "example": "Plastic waste must be disposed of properly",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-dispose-7f3224d1"
   },
   {
     "word": "driving",
     "pos": "adj.",
     "meaning": "Mạnh mẽ, có ảnh hưởng lớn",
     "example": "Human activities are the main driving force of climate change",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-driving-20b742b5"
   },
   {
     "word": "drought",
     "pos": "n.",
     "meaning": "Hạn hán",
     "example": "Farmers are facing ruin after two years of severe drought",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-drought-c8c8209c"
   },
   {
     "word": "dump",
     "pos": "v.",
     "meaning": "Vứt bỏ, đổthành đống",
     "example": "Too much toxic waste is being dumped at sea",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-dump-bcab2edc"
   },
   {
     "word": "echo",
     "pos": "v., n.",
     "meaning": "Dội, vang/Tiếng dội, tiếng",
     "example": "vang The call echoed off the walls of the cave",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-echo-9c06a05b"
   },
   {
     "word": "ecological",
     "pos": "adj.",
     "meaning": "Thuộc sinh thái",
     "example": "We risk upsetting the ecological balance of the area",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-ecological-11f9d3f4"
   },
   {
     "word": "emission",
     "pos": "n.",
     "meaning": "Sựphát ra, bốc ra, tỏa ra",
     "example": "We must take action to cut global emissions of carbon dioxide",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-emission-8b1a8492"
   },
   {
     "word": "erupt",
     "pos": "v.",
     "meaning": "Phun trào",
     "example": "The volcano could erupt at any time",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-erupt-b3fa0d75"
   },
   {
     "word": "exotic",
     "pos": "adj.",
     "meaning": "Kỳlạ",
     "example": "The national park was full of exotic plants and animals",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-exotic-66c6b321"
   },
   {
     "word": "forecast",
     "pos": "n., v.",
     "meaning": "Dựđoán",
     "example": "The forecast said there would be sunny intervals and showers",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-forecast-562cd3c9"
   },
   {
     "word": "greenhouse",
     "pos": "n.",
     "meaning": "Nhà kính (trồng cây)",
     "example": "Gladys grows a lot of tomatoes in her greenhouse",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-greenhouse-c2fb58f6"
   },
   {
     "word": "habitat",
     "pos": "n.",
     "meaning": "Môi trường sống, nơi sống (của động vật cây cối)",
     "example": "The panda's natural habitat is the bamboo forest",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-habitat-835fdea2"
   },
   {
     "word": "harmony",
     "pos": "n.",
     "meaning": "Sựhòa thuận, hòa hợp, hài hòa",
     "example": "We must ensure that tourism develops in harmony with the environment",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-harmony-34db79d5"
   },
   {
     "word": "hidden",
     "pos": "adj.",
     "meaning": "Ẩn, khuất",
     "example": "Hidden dangers lurk in the ocean depths",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-hidden-c896adc2"
   },
   {
     "word": "horizon",
     "pos": "n.",
     "meaning": "Chân trời",
     "example": "The sun sank below the horizon",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-horizon-bc977991"
   },
   {
     "word": "horn",
     "pos": "n.",
     "meaning": "Sừng, gạc",
     "example": "The bull lowered its horns and charged straight at him",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-horn-1cde6a10"
   },
   {
     "word": "large-scale",
     "pos": "adj.",
     "meaning": "có quy mô, phạm vi lớn",
     "example": "We must improve our response to large-scale natural disasters.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-large-scale-818759a3"
   },
   {
     "word": "litter",
     "pos": "n.",
     "meaning": "rác rưởi (loại nhẹnhư giấy vụn, chai…)",
     "example": "There will be fines for people who drop litter.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-litter-341e6bb3"
   },
   {
     "word": "log",
     "pos": "n., v.",
     "meaning": "(n): khúc củi (v): ghi khoảng cách đã đi được",
     "example": "There are many logs for the fire The pilot had logged over 200 hours in the air",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-log-6f6655d0"
   },
   {
     "word": "loom",
     "pos": "v.",
     "meaning": "hiện ra lờmờ",
     "example": "Dark storm clouds loomed on the horizon.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-loom-c0105bfd"
   },
   {
     "word": "marine",
     "pos": "adj.",
     "meaning": "(thuộc) biển/ hải quân",
     "example": "Marine biologists are concerned about the effects of untreated sewage that is flowing into coastal waters.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-marine-d918d987"
   },
   {
     "word": "minimize",
     "pos": "v.",
     "meaning": "giảm đến mức tối thiểu",
     "example": "Environmentalists are doing everything within their power to minimize the impact of the oil spill.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-minimize-c2788b31"
   },
   {
     "word": "minute",
     "pos": "",
-    "meaning": "rất nhỏ(vềkích thước hoặc sốlượng)",
+    "meaning": "rất nhỏ(vềkích thước hoặc số lượng)",
     "example": "Water contains minute quantities of lead.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-minute-8e51aec0"
   },
   {
     "word": "monster",
     "pos": "n.",
     "meaning": "quái vật",
     "example": "the Loch Ness monster a sea monster",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-monster-3a99c8e2"
   },
   {
     "word": "nest",
     "pos": "n.",
     "meaning": "tổ",
     "example": "The snake will attack if disturbed inside its nest.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-nest-b93b130f"
   },
   {
     "word": "pond",
     "pos": "n.",
     "meaning": "cái ao",
     "example": "It's good to get a view from the other side of the pond.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-pond-cea1d3e2"
   },
   {
     "word": "precede",
     "pos": "v.",
     "meaning": "đi trước, đến trước, xảy ra trước",
     "example": "Kofi Annan preceded Ban Ki-moon as the Secretary-General of the UN.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-precede-b07be59c"
   },
   {
     "word": "precedent",
     "pos": "n.",
     "meaning": "Quyết định, sựkiện... được xem là mẫu mực cho các quyết định hoặc các sựkiện sau này; tiền lệ",
     "example": "Some politicians fear that agreeing to the concession would set a dangerous precedent.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-precedent-cdd7ef88"
   },
   {
     "word": "predator",
     "pos": "n.",
     "meaning": "dã thú, động vật ăn thịt người lợi dụng người khác",
     "example": "In court, he was accused of being a merciless predator who had tricked his grandmother out of her savings.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-predator-01093736"
   },
   {
     "word": "rat",
     "pos": "n.",
     "meaning": "chuột",
-    "example": "The police are all over town. He’s caught, like a rat in a trap.",
-    "topic": "8: Environment and the Natural World"
+    "example": "The police are all over town. He's caught, like a rat in a trap.",
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-rat-a87a1d81"
   },
   {
     "word": "reproduce",
     "pos": "v.",
     "meaning": "sinh sôi nảy nở",
     "example": "Some creatures were better at surviving and reproducing themselves than others.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-reproduce-86f327ce"
   },
   {
-    "word": "reproduction n.",
-    "pos": "",
+    "word": "reproduction",
+    "pos": "n.",
     "meaning": "sựsinh sôi nảy nở",
     "example": "We are researching reproduction in elephants",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-reproduction-01e3a5fb"
   },
   {
     "word": "rose",
     "pos": "n.",
     "meaning": "Hoa hồng; cây hoa hồng",
     "example": "A rose is the national emblem of England.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-rose-cd919d5c"
   },
   {
     "word": "shore",
     "pos": "n.",
     "meaning": "Bờbiển, bờhồlớn",
     "example": "Rubbish of all sorts is washed up on the shore.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-shore-ea56fe35"
   },
   {
     "word": "strive",
     "pos": "v.",
     "meaning": "cốgắng, phấn đấu làm gì",
     "example": "We are striving to protect the environment.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-strive-5823305f"
   },
   {
     "word": "summit",
     "pos": "n.",
     "meaning": "đỉnh (núi...)",
     "example": "On this day in 1784, Dr Michel Paccard and Jacques Balmat reached the summit of Mont Blanc.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-summit-c23a714a"
   },
   {
     "word": "surge",
     "pos": "n., v.",
     "meaning": "sựtràn, sựdâng lên",
     "example": "A tidal surge caused severe flooding in coastal areas.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-surge-dd945f2c"
   },
   {
     "word": "sustainable",
     "pos": "adj.",
     "meaning": "bền vững, không gây hại đến môi trường",
     "example": "A large international meeting was held with the aim of promoting sustainable development in all countries.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-sustainable-b2ad7569"
   },
   {
     "word": "terrain",
     "pos": "n.",
     "meaning": "địa hình",
     "example": "They walked for miles across steep terrain",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-terrain-d246d89a"
   },
   {
     "word": "tide",
     "pos": "n.",
     "meaning": "Thủy triều",
     "example": "Is the tide coming in or going out?",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-tide-fca08ebd"
   },
   {
     "word": "toxic",
     "pos": "adj.",
     "meaning": "Độc",
     "example": "This chemical is toxic to many forms of life",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-toxic-109de389"
   },
   {
     "word": "trap",
     "pos": "v., n.",
     "meaning": "Cái bẫy",
     "example": "They put rabbit traps all over the wood",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-trap-20bc9802"
   },
   {
     "word": "tsunami",
     "pos": "n.",
     "meaning": "Sóng thần",
     "example": "A tsunami early warning system was set up in Hawaii",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-tsunami-d1592304"
   },
   {
     "word": "variable",
     "pos": "n., adj.",
     "meaning": "biến động, hay thay đổi",
     "example": "British weather is perhaps at its most variable in the spring.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-variable-f026e4fb"
   },
   {
     "word": "variation",
     "pos": "n.",
     "meaning": "sựbiến động, sựthay đổi",
     "example": "There are global temperature variations over the last 140 years",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-variation-df284721"
   },
   {
     "word": "varied",
     "pos": "adj.",
     "meaning": "đa dạng, khác nhau",
     "example": "With its varied climate, the country attracts both winter and summer sports enthusiasts.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-varied-2b894854"
   },
   {
     "word": "vertical",
     "pos": "adj.",
     "meaning": "thẳng đứng",
     "example": "She looked over the cliff and found she was standing at the edge of a vertical drop.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-vertical-8df5fa80"
   },
   {
     "word": "weed",
     "pos": "n.",
     "meaning": "cỏdại",
     "example": "My garden is overrun with weeds.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-weed-e62d5a13"
   },
   {
     "word": "widespread",
     "pos": "adj.",
     "meaning": "trên diện rộng",
     "example": "Minnesota has experienced widespread flooding.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-widespread-313f7ff5"
   },
   {
     "word": "width",
     "pos": "n.",
     "meaning": "chiều rộng, bềngang",
     "example": "The width of the river at this point is quite amazing.",
-    "topic": "8: Environment and the Natural World"
+    "topic": "8: Environment and the Natural World",
+    "id": "8-environment-and-the-natural-world-width-956d93ed"
   },
   {
     "word": "worm",
     "pos": "n.",
     "meaning": "giun, sâu",
     "example": "There are a lot of worms in my garden.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-worm-bdb8e609"
   },
   {
     "word": "adoption",
     "pos": "n.",
     "meaning": "Nhận làm con nuôi",
     "example": "She adopted three children from the orphanage",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-adoption-ffa16287"
   },
   {
     "word": "betray",
     "pos": "v.",
     "meaning": "Phản bội",
     "example": "She felt betrayed when she found out the truth about him",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-betray-04d7d301"
   },
   {
     "word": "buddy",
     "pos": "n.",
     "meaning": "Bạn",
-    "example": "I’d like you to meet an old college buddy of mine",
-    "topic": "9: Family and Relationships"
+    "example": "I'd like you to meet an old college buddy of mine",
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-buddy-db739993"
   },
   {
     "word": "buffer",
     "pos": "n.",
     "meaning": "Vật đệm",
     "example": "She often had to act as a buffer between father and son",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-buffer-17dea79a"
   },
   {
     "word": "companion",
     "pos": "n.",
     "meaning": "Bạn đồng hành",
     "example": "Geoff was my companion on the journey",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-companion-87f546f8"
   },
   {
     "word": "compromis",
     "pos": "",
     "meaning": "e",
     "example": "n., v. Sựthỏa hiệp In any relationship, you have to make compromises",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-compromis-d73eb5f0"
   },
   {
     "word": "confront",
     "pos": "v.",
     "meaning": "Chạm trán, đối đầu",
     "example": "He confronted her with a choice between her career or their relationship",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-confront-dec5a3b6"
   },
   {
     "word": "confrontati",
     "pos": "",
     "meaning": "on n. Sựchạm trán, đối đầu",
     "example": "She wanted to avoid another confrontation with her father",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-confrontati-05aac16d"
   },
   {
     "word": "counseling",
     "pos": "n.",
     "meaning": "Khuyên bảo, chỉbảo",
     "example": "The couple decided to go for relationship counseling",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-counseling-faedf877"
   },
   {
     "word": "counselor",
     "pos": "n.",
     "meaning": "Cốvấn",
     "example": "The couple met a marriage guidance counselor",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-counselor-dc8d3648"
   },
   {
-    "word": "dependence n.",
-    "pos": "",
+    "word": "dependence",
+    "pos": "n.",
     "meaning": "Sựtùy thuộc, phụthuộc",
     "example": "Our relationship was based on mutual dependence",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-dependence-623919b5"
   },
   {
     "word": "dependent",
     "pos": "adj.",
     "meaning": "Dựa vào, tùy thuộc, phụ thuộc",
     "example": "Most children remain dependent on their parents while at university",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-dependent-75b84eae"
   },
   {
     "word": "dilemma",
     "pos": "n.",
     "meaning": "Thếlưỡng nan, khó xử",
     "example": "She faces the dilemma of disobeying her father or losing the man she loves",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-dilemma-df3d5034"
   },
   {
     "word": "divorce",
     "pos": "n., v.",
     "meaning": "Ly hôn",
     "example": "The marriage ended in divorce in 1996",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-divorce-61ebf6cc"
   },
   {
     "word": "embrace",
     "pos": "v.",
     "meaning": "Ôm",
     "example": "He held her in a warm embrace",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-embrace-a5f5616a"
   },
   {
-    "word": "encourage",
-    "pos": "",
-    "meaning": "",
-    "example": "ment n. Sựkhuyến khích, khích lệ, cổ vũ With a little encouragement from his parents he should do well",
-    "topic": "9: Family and Relationships"
+    "word": "encouragement",
+    "pos": "n.",
+    "meaning": "Sự khuyến khích, khích lệ, cổ vũ",
+    "example": "With a little encouragement from his parents he should do well",
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-encouragement-c282606a"
   },
   {
-    "word": "encouragin",
-    "pos": "",
-    "meaning": "g",
-    "example": "adj. Khích lệ, cổvũ His parents remain encouraging despite bad grades",
-    "topic": "9: Family and Relationships"
+    "word": "encouraging",
+    "pos": "adj.",
+    "meaning": "Khích lệ, cổ vũ",
+    "example": "His parents remain encouraging despite bad grades",
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-encouraging-c1b935fc"
   },
   {
-    "word": "engagement n.",
-    "pos": "",
+    "word": "engagement",
+    "pos": "n.",
     "meaning": "Sựđính hôn, hứa hôn",
     "example": "He announced his engagement to his long-time girlfriend",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-engagement-6be177a2"
   },
   {
     "word": "gathering",
     "pos": "n.",
     "meaning": "Sựtụtập; cuộc họp mặt (đông người)",
     "example": "We're having a small family gathering to mark our wedding anniversary",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-gathering-1bfa1c07"
   },
   {
     "word": "inherit",
     "pos": "v.",
     "meaning": "Thừa kế, thừa hưởng",
     "example": "She inherited a fortune from her father",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-inherit-3858ae13"
   },
   {
     "word": "interfere",
     "pos": "v.",
     "meaning": "Can thiệp vào, xen vào",
     "example": "It's their problem and I'm not going to interfere",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-interfere-015db12d"
   },
   {
-    "word": "interference n.",
-    "pos": "",
+    "word": "interference",
+    "pos": "n.",
     "meaning": "Sựcan thiệp",
     "example": "You should watch out for unnecessary interference by your friends into your relationship",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-interference-aaa76ce7"
   },
   {
     "word": "lifelong",
     "pos": "adj.",
     "meaning": "suốt đời",
     "example": "She is my lifelong friend.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-lifelong-e6c9caf6"
   },
   {
     "word": "long-standi",
     "pos": "",
     "meaning": "ng",
     "example": "adj. [tồn tại] lâu dài; lâu đời They have a long-standing relationship",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-long-standi-4a63fd2b"
   },
   {
     "word": "long-time",
     "pos": "adj.",
     "meaning": "lâu ngày",
     "example": "She is a long-time friend of the family.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-long-time-4c359045"
   },
   {
     "word": "magical",
     "pos": "adj.",
     "meaning": "có phép màu, kì diệu",
     "example": "There is something magical about the pure exchange of love between parent and child.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-magical-db682204"
   },
   {
     "word": "mate",
     "pos": "n., v.",
     "meaning": "ghép đôi bạn (bạn đời, bạn nghề)",
     "example": "I usually go out with some of my mates from the office on Saturdays.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-mate-9c196054"
   },
   {
-    "word": "meaningful adj.",
-    "pos": "",
+    "word": "meaningful",
+    "pos": "adj.",
     "meaning": "có ý nghĩa, có giá trị",
     "example": "She found it difficult to form meaningful relationships.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-meaningful-c6f73acd"
   },
   {
     "word": "mutual",
     "pos": "adj.",
     "meaning": "lẫn nhau",
     "example": "We are mutual friends",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-mutual-f6299ace"
   },
   {
     "word": "offspring",
     "pos": "n.",
     "meaning": "con; con cái",
     "example": "She's the offspring of a scientist and a musician.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-offspring-363d4a7f"
   },
   {
     "word": "originate",
     "pos": "v.",
     "meaning": "bắt nguồn từ, khởi đầu từ",
     "example": "The quarrel originated in rivalry between the two families.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-originate-9eb57cd4"
   },
   {
     "word": "passionate",
     "pos": "adj.",
     "meaning": "say đắm",
     "example": "It was a passionate and often stormy relationship.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-passionate-b27f978e"
   },
   {
     "word": "passive",
     "pos": "adj.",
     "meaning": "bịđộng; thụđộng",
     "example": "He played a passive role in the relationship.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-passive-aa8c9402"
   },
   {
     "word": "precious",
     "pos": "adj.",
     "meaning": "quý giá, cầu kì, đẹp tuyệt",
     "example": "The museum is full of rare and precious treasures.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-precious-5ada7876"
   },
   {
     "word": "realization",
     "pos": "n.",
     "meaning": "sựnhận thức sựthực hiện",
     "example": "There is a growing realization that changes must be made. It was the realization of his greatest ambition.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-realization-2f2a84e4"
   },
   {
     "word": "resemble",
     "pos": "v.",
     "meaning": "giống ai",
     "example": "You resemble your mother very closely.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-resemble-587b5cd6"
   },
   {
     "word": "reside",
     "pos": "v.",
     "meaning": "sinh sống, cư trú",
     "example": "The family now resides in southern France.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-reside-d5cc101a"
   },
   {
     "word": "residence",
     "pos": "n.",
     "meaning": "sựsinh sống, cư trú",
     "example": "Her parents took up residence in Canada 20 years ago.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-residence-b0aac80a"
   },
   {
     "word": "residential",
     "pos": "adj.",
     "meaning": "thuộc nhà riêng",
     "example": "What is your residential address?",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-residential-736e3f2f"
   },
   {
     "word": "romance",
     "pos": "n.",
     "meaning": "Không khí lãng mạn; tình cảm lãng mạn Truyện tình lãng mạn; mối tình lãng mạn Sựmơ mộng, tính lãng mạn",
     "example": "They had a whirlwind romance.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-romance-0db3d73f"
   },
   {
     "word": "sake",
     "pos": "n.",
     "meaning": "Mục đích, lợi ích",
     "example": "I believe in education for its own sake. They stayed together for the sake of the children.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-sake-6e4945ed"
   },
   {
     "word": "scattered",
     "pos": "adj.",
     "meaning": "Lác đác; lưa thưa; rải rác",
     "example": "Her family are scattered around the world.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-scattered-a2ef677d"
   },
   {
     "word": "separation",
     "pos": "n.",
-    "meaning": "Sựphân ly; sựchia tay; sựly thân",
+    "meaning": "Sự phân ly; sựchia tay; sựly thân",
     "example": "Prolonged separations of this kind are damaging to very young children.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-separation-f9682f28"
   },
   {
     "word": "sibling",
     "pos": "n.",
     "meaning": "anh chịem ruột",
     "example": "The younger children were badly treated by older siblings.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-sibling-67186639"
   },
   {
     "word": "spell",
     "pos": "n.",
     "meaning": "Sựthu hút, sựlàm say mê câu thần chú",
     "example": "The witch cast/put a spell on the prince and he turned into a frog.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-spell-cda4856f"
   },
   {
     "word": "spoil",
     "pos": "v.",
     "meaning": "làm hư hỏng",
     "example": "He is sulking like a spoilt child.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-spoil-c13eb0fc"
   },
   {
     "word": "spouse",
     "pos": "n.",
     "meaning": "vợ/ chồng",
     "example": "In 60 percent of the households surveyed both spouses went out to work.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-spouse-0f1c94fd"
   },
   {
     "word": "supportive",
     "pos": "adj.",
     "meaning": "khuyến khích, đem lại sự giúp đỡ",
     "example": "Children with supportive parents often do better at school than those without.",
-    "topic": "9: Family and Relationships"
+    "topic": "9: Family and Relationships",
+    "id": "9-family-and-relationships-supportive-5fbcc1ce"
   },
   {
     "word": "widow",
     "pos": "n.",
     "meaning": "góa phụ",
     "example": "My grandmother has been a widow since her husband died 30 years ago.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-widow-d4ed6ecf"
   },
   {
     "word": "appetite",
     "pos": "n.",
     "meaning": "Sựngon miệng, thèm ăn",
     "example": "He suffered from headaches and loss of appetite",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-appetite-a23a56e3"
   },
   {
     "word": "balanced",
     "pos": "adj.",
     "meaning": "Cân bằng",
     "example": "A balanced diet will help you keep fit",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-balanced-ff4ba499"
   },
   {
     "word": "barrel",
     "pos": "n.",
     "meaning": "Thùng (đáy tròn)",
     "example": "They filled the barrels with cider",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-barrel-ef067516"
   },
   {
     "word": "blend",
     "pos": "v., n.",
     "meaning": "Pha trộn",
     "example": "Blend the flour with the milk to make a smooth paste",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-blend-84732fc3"
   },
   {
     "word": "cater",
     "pos": "v.",
     "meaning": "Phục vụăn uống",
     "example": "Who will be catering the wedding?",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-cater-c5f5ef7c"
   },
   {
     "word": "chop",
     "pos": "v.",
     "meaning": "Bổ, chặt",
     "example": "Add the finely chopped onions",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-chop-67091f16"
   },
   {
     "word": "chunk",
     "pos": "n.",
     "meaning": "Khúc, tảng",
     "example": "He cut the food up into bite-size chunks",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-chunk-de91dd2d"
   },
   {
     "word": "cocktail",
     "pos": "n.",
     "meaning": "Rượu cốc tay",
     "example": "He made me fruit cocktail",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-cocktail-1b5a76e0"
   },
   {
     "word": "complement",
     "pos": "v.",
-    "meaning": "Phần bổsung",
+    "meaning": "Phần bổ sung",
     "example": "The excellent menu is complemented by a good wine list",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-complement-3e92cb7f"
   },
   {
-    "word": "consumption n.",
-    "pos": "",
+    "word": "consumption",
+    "pos": "n.",
     "meaning": "Sựtiêu thụ",
     "example": "The meat was declared unfit for human consumption",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-consumption-cdfab52b"
   },
   {
     "word": "dairy",
     "pos": "n., adj.",
     "meaning": "Bơ sữa",
     "example": "The doctor told me to eat less red meat and dairy",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-dairy-80a4c258"
   },
   {
     "word": "dip",
     "pos": "v.",
     "meaning": "Nhúng, dìm",
     "example": "The fruit had been dipped in chocolate",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-dip-7c744bdb"
   },
   {
     "word": "drain",
     "pos": "v.",
     "meaning": "Làm ráo nước",
     "example": "Drain off any liquid that is left in the rice",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-drain-4ffcb312"
   },
   {
     "word": "eliminate",
     "pos": "v.",
     "meaning": "Loại ra, loại bỏ",
     "example": "This diet claims to eliminate toxins from the body",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-eliminate-ea7e9643"
   },
   {
     "word": "flavor",
     "pos": "n.",
     "meaning": "Mùi thơm, vịngon, mùi vị",
     "example": "The tomatoes give extra flavor to the sauce",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-flavor-a8e628b7"
   },
   {
     "word": "grasp",
     "pos": "v., n.",
     "meaning": "Túm lấy; ngoạm lấy, chộp lấy He grasped the pan by its handle",
     "example": "",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-grasp-84d2c86a"
   },
   {
     "word": "grind",
     "pos": "v.",
     "meaning": "Xay, nghiền, tán",
     "example": "The coffee is ground to a fine powder",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-grind-a2897c85"
   },
   {
     "word": "handful",
     "pos": "n.",
     "meaning": "Một nhúm, một nắm",
     "example": "He grabbed a handful of cookies and left",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-handful-6f588650"
   },
   {
     "word": "herb",
     "pos": "n.",
     "meaning": "Dược thảo",
     "example": "The shop sells a large range of herbs and spices",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-herb-6ffa193d"
   },
   {
     "word": "liter",
     "pos": "n.",
     "meaning": "lít (đơn vịđo thểtích)",
     "example": "Add a scant half liter of milk to the mixture and stir well.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-liter-4c3678f0"
   },
   {
     "word": "organic",
     "pos": "adj.",
     "meaning": "hữu cơ",
     "example": "Supermarkets have recognized the increasing popularity of organic food.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-organic-b4ca3116"
   },
   {
     "word": "processing",
     "pos": "n.",
     "meaning": "sựchếbiến, gia công xửlý",
     "example": "They found cans containing rotting meat, which was the result of poor processing when the cans were sealed. These files enable you to control image processing on your PC.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-processing-d8cb0e47"
   },
   {
     "word": "protein",
     "pos": "n.",
     "meaning": "pro-tê-in, chất đạm",
     "example": "Peas, beans and lentils are a good source of vegetable protein.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-protein-db8cacfd"
   },
   {
     "word": "remains",
     "pos": "n.",
     "meaning": "đồăn thừa",
     "example": "The remains of the meal were put on the table.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-remains-eeb6ee41"
   },
   {
     "word": "residue",
     "pos": "n.",
     "meaning": "phần còn lại",
     "example": "She cut off the best meat and threw away the residue.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-residue-0083bc12"
   },
   {
     "word": "soak",
     "pos": "v.",
     "meaning": "nhúng, ngâm nước",
     "example": "Leave the apricots to soak for 20 minutes.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-soak-ea7cc112"
   },
   {
     "word": "spice",
     "pos": "n.",
     "meaning": "Đồgia vị; gia vị (nghĩa bóng) điều làm thêm hấp dẫn",
     "example": "We need an exciting trip to add some spice to our lives. The danger added spice to their romance.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-spice-35b22c4d"
   },
   {
     "word": "stall",
     "pos": "n.",
     "meaning": "quầy, sạp hàng",
     "example": "She runs a vegetable stall in the market.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-stall-15511bb3"
   },
   {
     "word": "stir",
     "pos": "v.",
     "meaning": "khuấy, quấy trộn cái gì",
     "example": "Stir the sauce gently until it begins to boil.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-stir-dd90f96e"
   },
   {
     "word": "suck",
     "pos": "v.",
     "meaning": "bú, mút",
     "example": "She was sitting in the dining room sucking lemonade through a straw.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-suck-ee48a35b"
   },
   {
     "word": "swallow",
     "pos": "v.",
     "meaning": "nuốt (đồăn...)",
     "example": "He put a grape into his mouth and swallowed it whole.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-swallow-457f50bb"
   },
   {
     "word": "warming",
     "pos": "n.",
     "meaning": "ấm",
     "example": "I want a warming bowl of soup.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-warming-d4588360"
   },
   {
     "word": "wheat",
     "pos": "n.",
     "meaning": "lúa mì",
     "example": "Wheat is a staple crop for millions of people across the world.",
-    "topic": "10: Food and Cooking"
+    "topic": "10: Food and Cooking",
+    "id": "10-food-and-cooking-wheat-3be9bdfb"
   },
   {
     "word": "whip",
     "pos": "v.",
     "meaning": "đánh (kem, trứng...)",
     "example": "Could you whip the cream for me?",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-whip-64e5ca27"
   },
   {
     "word": "abortion",
     "pos": "n.",
     "meaning": "Nạo phá thai",
     "example": "She decided to have an abortion",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-abortion-fc8d807e"
   },
   {
     "word": "accelerate",
     "pos": "v.",
     "meaning": "Tăng tốc",
     "example": "Exposure to the sun can accelerate the aging process",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-accelerate-863e3871"
   },
   {
     "word": "acute",
     "pos": "adj.",
     "meaning": "Cấp tính",
     "example": "He was suffering from acute chest pains",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-acute-39edf2f0"
   },
   {
     "word": "addiction",
     "pos": "n.",
     "meaning": "Sựnghiện ngập",
     "example": "He's now fighting this alcohol addiction",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-addiction-3982b670"
   },
   {
     "word": "adhere",
     "pos": "v.",
     "meaning": "Tuân thủ",
     "example": "The diet will work if it is adhered to",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-adhere-5aefa4c6"
   },
   {
     "word": "adverse",
     "pos": "adj.",
     "meaning": "Bất lợi, có hại",
     "example": "This drug is known to have adverse side effects",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-adverse-900ae3dc"
   },
   {
     "word": "AIDS",
     "pos": "n.",
     "meaning": "Hội chứng suy giảm miễn dịch mắc phải",
     "example": "He developed AIDS five years after contracting HIV",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-aids-a205c005"
   },
   {
     "word": "allowance",
     "pos": "n.",
     "meaning": "Liều lượng cho phép",
     "example": "The recommended daily allowance of Vitamin C is 60-90 milligrams",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-allowance-dcb89729"
   },
   {
     "word": "ambulance",
     "pos": "n.",
     "meaning": "Xe cứu thương, xe cấp cứu",
     "example": "The ambulance crew rush her to the hospital",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-ambulance-0235eebb"
   },
   {
     "word": "anxiety",
     "pos": "n.",
     "meaning": "Lo âu, lo lắng",
     "example": "Some hospital patients experience high levels of anxiety",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-anxiety-5411f1eb"
   },
   {
     "word": "beneficial",
     "pos": "adj.",
     "meaning": "Có lợi",
     "example": "A good diet is beneficial to health",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-beneficial-2ce42bdc"
   },
   {
     "word": "beneficiary",
     "pos": "n.",
     "meaning": "Người hưởng lợi",
     "example": "The biggest beneficiary of exercising is none other than yourself",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-beneficiary-28e7cb56"
   },
   {
     "word": "bleed",
     "pos": "v.",
     "meaning": "Chảy máu",
     "example": "My finger's bleeding",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-bleed-1c4d7ef1"
   },
   {
     "word": "chronic",
     "pos": "adj.",
     "meaning": "Mãn tính, kinh niên",
     "example": "He's a chronic alcoholic",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-chronic-ed87c02e"
   },
   {
     "word": "circulate",
     "pos": "v.",
     "meaning": "Lưu thông",
     "example": "The condition prevents the blood from circulating freely",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-circulate-b802e0e8"
   },
   {
     "word": "circulation",
     "pos": "n.",
     "meaning": "Sựlưu thông",
     "example": "Regular exercise will improve blood circulation",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-circulation-7d965e7f"
   },
   {
     "word": "clinic",
     "pos": "n.",
     "meaning": "Bệnh viện chuyên khoa, phòng khám",
     "example": "Your local family planning clinic can give you advice about birth control",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-clinic-67ea6c15"
   },
   {
     "word": "clinical",
     "pos": "adj.",
     "meaning": "Lâm sàng",
     "example": "Clinical trials of a COVID drug are starting soon",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-clinical-f932fa66"
   },
   {
     "word": "cluster",
     "pos": "n.",
     "meaning": "Cụm",
     "example": "Doctors are worried about what appear to be cancer clusters occurring in these areas",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-cluster-b54014de"
   },
   {
     "word": "complication",
     "pos": "n.",
     "meaning": "Biến chứng",
     "example": "She developed complications after the surgery",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-complication-bff5406a"
   },
   {
     "word": "confine",
     "pos": "v.",
     "meaning": "Bịhạn chế",
     "example": "She was confined to bed with the flu",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-confine-c6d82e8b"
   },
   {
     "word": "confirmation",
     "pos": "n.",
     "meaning": "Sựxác nhận",
     "example": "I'm still waiting for confirmation of the test results",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-confirmation-8d244632"
   },
   {
-    "word": "consciousness n.",
-    "pos": "",
+    "word": "consciousness",
+    "pos": "n.",
     "meaning": "Ý thức",
     "example": "She did not regain consciousness and died the next day",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-consciousness-4d650a92"
   },
   {
     "word": "considerable",
     "pos": "adj.",
     "meaning": "Rất lớn, to tát",
     "example": "Considerable progress has been made in finding a cure for the disease",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-considerable-ff06a161"
   },
   {
     "word": "considerably",
     "pos": "adv.",
     "meaning": "Một cách rất lớn, nhiều",
     "example": "The need for sleep varies considerably from person to person",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-considerably-3f7c1b96"
   },
   {
     "word": "cope",
     "pos": "v.",
     "meaning": "Đối phó, đương đầu với khó khăn",
     "example": "He wasn't able to cope with the stresses and strains of the job",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-cope-61ce8776"
   },
   {
     "word": "correlate",
     "pos": "v.",
     "meaning": "Có tương quan với",
     "example": "A high-fat diet correlates with a greater risk of heart disease",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-correlate-15688322"
   },
   {
     "word": "correlation",
     "pos": "n.",
     "meaning": "Sựtương quan",
     "example": "There is a direct correlation between exposure to sun and skin cancer",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-correlation-d41e61f3"
   },
   {
     "word": "countless",
     "pos": "adj.",
     "meaning": "Vô số",
     "example": "The new treatment could save Emma's life and the lives of countless others",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-countless-6602c8d9"
   },
   {
     "word": "crack",
     "pos": "v., n.",
     "meaning": "Làm nứt, rạn/Vết nứt, rạn",
     "example": "He has cracked a bone in his arm",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-crack-6b9da00b"
   },
   {
     "word": "damaging",
     "pos": "adj.",
     "meaning": "Tổn hại",
     "example": "Lead is potentially damaging to children's health",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-damaging-39cc7fa1"
   },
   {
     "word": "defect",
     "pos": "n.",
     "meaning": "Thiếu sót, sai sót; Khuyết tật",
     "example": "The child had a mild heart defect",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-defect-eef8dcab"
   },
   {
     "word": "deficiency",
     "pos": "n.",
-    "meaning": "Sựthiếu sót",
+    "meaning": "Sự thiếu sót",
     "example": "Vitamin deficiency in the diet can cause illness",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-deficiency-247b72ab"
   },
   {
     "word": "deficit",
     "pos": "n.",
-    "meaning": "Sựthiếu hụt",
+    "meaning": "Sự thiếu hụt",
     "example": "In order to lose weight, you should aim for a calorie deficit",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-deficit-c7ddd49c"
   },
   {
     "word": "delicate",
     "pos": "adj.",
-    "meaning": "",
-    "example": "Mong manh The eye is one of the most delicate organs of the body",
-    "topic": "11: Health and Well-being"
+    "meaning": "Mong manh",
+    "example": "The eye is one of the most delicate organs of the body",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-delicate-5861632b"
   },
   {
     "word": "depression",
     "pos": "n.",
-    "meaning": "Sựtrầm cảm",
+    "meaning": "Sự trầm cảm",
     "example": "She suffered from severe depression after losing her job",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-depression-34945f83"
   },
   {
     "word": "deprive",
     "pos": "v.",
     "meaning": "Lấy đi, tước đi",
     "example": "You can't function properly when you're deprived of sleep",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-deprive-fab1c5f7"
   },
   {
     "word": "deteriorate",
     "pos": "v.",
     "meaning": "Hư hỏng",
     "example": "Her health deteriorated rapidly, and she died shortly afterwards",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-deteriorate-b2b65deb"
   },
   {
     "word": "diagnose",
     "pos": "v.",
     "meaning": "Chẩn đoán",
     "example": "Her condition was wrongly diagnosed by the doctor",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-diagnose-532b3411"
   },
   {
     "word": "diagnosis",
     "pos": "n.",
-    "meaning": "Sựchẩn đoán, kết quảchẩn đoán",
+    "meaning": "Sự chẩn đoán, kết quảchẩn đoán",
     "example": "They are waiting for the doctor's diagnosis",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-diagnosis-e4561db0"
   },
   {
     "word": "disability",
     "pos": "n.",
-    "meaning": "Sựtàn tật",
+    "meaning": "Sự tàn tật",
     "example": "No one knows what causes learning disabilities",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-disability-160c3985"
   },
   {
     "word": "disabled",
     "pos": "adj.",
     "meaning": "Người tàn tật",
     "example": "The museum has special facilities for disabled people",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-disabled-dad8cacb"
   },
   {
     "word": "discharge",
     "pos": "v.",
     "meaning": "Cho xuất viện/Cho giải ngũ",
     "example": "Patients were being discharged from the hospital too early",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-discharge-0581c256"
   },
   {
     "word": "discourage",
     "pos": "v.",
     "meaning": "Làm nản lòng; can ngăn, ngăn cản",
     "example": "Smoking is actively discouraged in the university",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-discourage-32be3933"
   },
   {
     "word": "disorder",
     "pos": "n.",
-    "meaning": "Sựrối loạn",
+    "meaning": "Sự rối loạn",
     "example": "She suffers from a rare blood disorder",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-disorder-7def8af2"
   },
   {
     "word": "donation",
     "pos": "n.",
     "meaning": "Sựbiếu tặng, quyên góp",
     "example": "Organ donation has not kept pace with the demand for transplants",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-donation-5ce79e09"
   },
   {
     "word": "donor",
     "pos": "n.",
     "meaning": "Người cho tặng, người biếu",
     "example": "The heart transplant will take place as soon as a suitable donor can be found",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-donor-bac0d3c5"
   },
   {
     "word": "dose",
     "pos": "n.",
     "meaning": "Liều (thuốc)",
     "example": "I always take my daily dose of vitamin C",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-dose-291a0a8c"
   },
   {
     "word": "elbow",
     "pos": "n.",
     "meaning": "Khuỷu tay",
     "example": "He rested his elbows on his knees",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-elbow-5a3f0e43"
   },
   {
     "word": "embed",
     "pos": "v.",
     "meaning": "Ăn sâu, cắm chặt",
     "example": "There was an operation to remove glass embedded in his leg",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-embed-a9651332"
   },
   {
     "word": "endure",
     "pos": "v.",
     "meaning": "Chịu đựng",
     "example": "The pain was almost too great to endure",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-endure-410b025f"
   },
   {
     "word": "epidemic",
     "pos": "n.",
     "meaning": "Bệnh dịch",
     "example": "A flu epidemic broke out, and over 200 children died",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-epidemic-b82f7835"
   },
   {
     "word": "excess",
     "pos": "n., adj.",
-    "meaning": "Sựquá mức, sốlượng vượt quá",
+    "meaning": "Sự quá mức, số lượng vượt quá",
     "example": "The drug can be harmful if taken in excess",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-excess-82635e50"
   },
   {
     "word": "excessive",
     "pos": "adj.",
     "meaning": "Thái quá",
     "example": "Excessive drinking can lead to stomach disorders",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-excessive-64f1c6c2"
   },
   {
     "word": "exposure",
     "pos": "n.",
-    "meaning": "Sựphơi nhiễm",
+    "meaning": "Sự phơi nhiễm",
     "example": "At high exposures, the chemical can affect the liver and kidneys",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-exposure-ffb2da8d"
   },
   {
     "word": "fatal",
     "pos": "adj.",
     "meaning": "Làm chết người",
     "example": "If she gets ill again it could prove fatal",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-fatal-0f71ad3f"
   },
   {
     "word": "fever",
     "pos": "n.",
     "meaning": "Cơn sốt",
     "example": "He has a high fever",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-fever-c732a6c6"
   },
   {
     "word": "fiber",
     "pos": "n.",
     "meaning": "Chất xơ",
     "example": "Dried fruits are especially high in fiber",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-fiber-24e4f82a"
   },
   {
     "word": "fine",
     "pos": "v., n.",
     "meaning": "Khỏe khoắn",
     "example": "I was feeling fine when I got up this morning",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-fine-3e012d09"
   },
   {
     "word": "fit",
     "pos": "n.",
     "meaning": "Cơn; trận",
     "example": "He suffered from headaches and fainting fits",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-fit-168dbefa"
   },
   {
     "word": "flesh",
     "pos": "n.",
     "meaning": "Thịt",
     "example": "The knife cut through flesh and bone",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-flesh-d582f0db"
   },
   {
     "word": "fluid",
     "pos": "n.",
     "meaning": "Chất lỏng",
     "example": "The doctor told him to drink plenty of fluids",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-fluid-eaa6931f"
   },
   {
     "word": "forbid",
     "pos": "v.",
     "meaning": "Cấm",
     "example": "Smoking is strictly forbidden",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-forbid-eaf209b1"
   },
   {
     "word": "hazard",
     "pos": "n.",
     "meaning": "Mối nguy",
     "example": "Smoking is a serious health hazard",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-hazard-fed89da2"
   },
   {
     "word": "heal",
     "pos": "v.",
     "meaning": "Chữa khỏi (bệnh), làm lành (vết thương)",
     "example": "It took a long time for the wounds to heal",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-heal-8d574264"
   },
   {
     "word": "healthcare",
     "pos": "n.",
     "meaning": "Dịch vụchăm sóc sức khỏe",
     "example": "Many people in the country cannot afford health care",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-healthcare-86876fde"
   },
   {
     "word": "immune",
     "pos": "adj.",
     "meaning": "Miễn dịch",
     "example": "Many people are immune to this disease",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-immune-131f3f29"
   },
   {
     "word": "indication",
     "pos": "n.",
     "meaning": "Sựbiểu thị; dấu hiệu",
     "example": "All the indications are that she will make a full recovery",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-indication-f66fabe2"
   },
   {
     "word": "indicator",
     "pos": "n.",
     "meaning": "Người chỉ; vật chỉ. Vật biểu thị",
     "example": "Nightly snoring can be an indicator of underlying health problems",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-indicator-eff8a29a"
   },
   {
     "word": "infect",
     "pos": "v.",
     "meaning": "Làm lây lan",
     "example": "It is not possible to infect another person with HIV through kissing",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-infect-49e50fdd"
   },
   {
     "word": "inhibit",
     "pos": "v.",
     "meaning": "Ngăn chặn, kiềm chế, ức chế",
     "example": "A lack of oxygen may inhibit brain development in the unborn child",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-inhibit-ec0c05b7"
   },
   {
     "word": "inject",
     "pos": "v.",
     "meaning": "Tiêm, chích",
     "example": "She has been injecting herself with insulin since the age of 16",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-inject-d57c22a1"
   },
   {
     "word": "injection",
     "pos": "n.",
     "meaning": "Mũi tiêm",
     "example": "He was treated with penicillin injections",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-injection-431843d1"
   },
   {
     "word": "insert",
     "pos": "v.",
     "meaning": "Cài vào, lồng vào",
     "example": "They inserted a tube in his mouth to help him breathe",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-insert-5fd1fa3f"
   },
   {
     "word": "insertion",
     "pos": "n.",
-    "meaning": "Sựcài vào, lồng vào",
+    "meaning": "Sự cài vào, lồng vào",
     "example": "An examination is carried out before the insertion of the tube",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-insertion-20930e9d"
   },
   {
     "word": "instruct",
     "pos": "v.",
     "meaning": "Chỉdẫn, bảo",
     "example": "I took the pills as instructed",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-instruct-ec41d15c"
   },
   {
     "word": "intake",
     "pos": "n.",
-    "meaning": "Vật lấy vào; sốlượng lấy vào You should maintain a low intake of fat",
+    "meaning": "Vật lấy vào; số lượng lấy vào You should maintain a low intake of fat",
     "example": "",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-intake-54d3acc3"
   },
   {
     "word": "intensify",
     "pos": "v.",
     "meaning": "Tăng cường; gia tăng",
     "example": "He intensified his training, running 45 miles a week",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-intensify-556c1d8c"
   },
   {
     "word": "intensity",
     "pos": "n.",
     "meaning": "Cường độ, độmãnh liệt",
     "example": "Her headaches started to increase in intensity",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-intensity-95ed6f8f"
   },
   {
     "word": "intensive",
     "pos": "adj.",
     "meaning": "Tập trung, câu; cực kỳkỹ lưỡng",
     "example": "Following the surgery, Mr. Y was rushed to the ICU (Intensive Care Unit)",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-intensive-00435072"
   },
   {
     "word": "isolate",
     "pos": "v.",
     "meaning": "cách li",
     "example": "Patients with the disease should be isolated.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-isolate-a41fb66f"
   },
   {
     "word": "kidney",
     "pos": "n.",
-    "meaning": "quảcật",
+    "meaning": "quả cật",
     "example": "She suffered kidney failure and needed a blood transfusion.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-kidney-b695a7db"
   },
   {
     "word": "kit",
     "pos": "n.",
-    "meaning": "dụng cụlàm việc, bộđồnghề",
+    "meaning": "dụng cụ làm việc, bộ đồ nghề",
     "example": "a first-aid/tool kit We didn't have our sports kit with us.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-kit-a7d59aa3"
   },
   {
     "word": "lap",
     "pos": "n.",
-    "meaning": "lòng (thểdục,thểthao) vòng chạy, vòng đua",
+    "meaning": "lòng (thể dục,thểthao) vòng chạy, vòng đua",
     "example": "The children sat on my lap. He was overtaken on the final lap.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-lap-9bbb0efd"
   },
   {
     "word": "limb",
     "pos": "n.",
     "meaning": "tay, chân",
     "example": "For a while, she lost the use of her limbs.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-limb-f8401759"
   },
   {
     "word": "liver",
     "pos": "n.",
     "meaning": "gan (của người, của súc vật)",
     "example": "He died of liver cancer.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-liver-aeaf5236"
   },
   {
     "word": "medication",
     "pos": "n.",
-    "meaning": "sựbốc thuốc, sựcho thuốc thuốc, dược phẩm",
+    "meaning": "sựbốc thuốc, sựcho thuốc, dược phẩm, dược phẩm",
     "example": "He is currently taking medication for his heart.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-medication-71663a26"
   },
   {
     "word": "meditation",
     "pos": "n.",
-    "meaning": "sựsuy ngẫm, sựtrầm tư",
+    "meaning": "sự suy ngẫm, sự trầm tư",
     "example": "I left him deep in meditation.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-meditation-56553119"
   },
   {
     "word": "miracle",
     "pos": "n.",
     "meaning": "phép màu, phép kì diệu",
     "example": "The doctor said her recovery was a miracle.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-miracle-274e6142"
   },
   {
     "word": "moderate",
     "pos": "adj.",
     "meaning": "vừa phải, có mức độ",
     "example": "There has been a moderate improvement in her health since she began the treatment.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-moderate-9641347f"
   },
   {
     "word": "nursing",
     "pos": "adj.",
     "meaning": "(người mẹ) cho con bú bằng sữa mẹ",
     "example": "Nursing mothers are advised to eat plenty of leafy green vegetables.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-nursing-fc32a525"
   },
   {
     "word": "nutrition",
     "pos": "n.",
-    "meaning": "sựdinh dưỡng",
+    "meaning": "sự dinh dưỡng",
     "example": "Good nutrition is essential if patients are to make a quick recovery.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-nutrition-e97694bc"
   },
   {
     "word": "obesity",
     "pos": "n.",
-    "meaning": "sựbéo phì",
+    "meaning": "sự béo phì",
     "example": "A diet that is high in fat and sugar can lead to obesity.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-obesity-5ca008ff"
   },
   {
     "word": "partially",
     "pos": "adv.",
     "meaning": "một phần",
     "example": "He is partially paralyzed.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-partially-f8cc588e"
   },
   {
     "word": "physician",
     "pos": "n.",
     "meaning": "thầy thuốc",
     "example": "Please consult your physician before beginning any new exercise program.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-physician-52a89b09"
   },
   {
     "word": "pill",
     "pos": "n.",
     "meaning": "(dược phẩm) viên tròn",
     "example": "The doctor prescribed her some pills to help her sleep.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-pill-95d7b9ae"
   },
   {
     "word": "pregnancy",
     "pos": "n.",
     "meaning": "sựcó thai, mang thai",
     "example": "My first pregnancy was very straightforward - there were no complications.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-pregnancy-02b7508f"
   },
   {
     "word": "preliminary",
     "pos": "adj.",
-    "meaning": "mởđầu, sơ bộ, dẫn nhập",
+    "meaning": "mở đầu, sơ bộ, dẫn nhập",
     "example": "Preliminary results show that the vaccine is effective, but this has to be confirmed by further medical trials.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-preliminary-b0887c76"
   },
   {
     "word": "prescribe",
     "pos": "v.",
     "meaning": "kê đơn thuốc",
     "example": "He may be able to prescribe you something for that cough.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-prescribe-690e721d"
   },
   {
     "word": "prescription",
     "pos": "",
     "meaning": "đơn thuốc, toa thuốc, thuốc được kê",
     "example": "Antibiotics are only available on prescription. The doctor gave me a prescription for antibiotics.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-prescription-707f0ebc"
   },
   {
     "word": "psychiatric",
-    "pos": "",
-    "meaning": "",
-    "example": "adj. (thuộc) bệnh tâm thần This is an interesting psychiatric case study of a child with extreme behavioral difficulties.",
-    "topic": "11: Health and Well-being"
+    "pos": "adj.",
+    "meaning": "(thuộc) bệnh tâm thần",
+    "example": "This is an interesting psychiatric case study of a child with extreme behavioral difficulties.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-psychiatric-ad5b63a5"
   },
   {
     "word": "psychological",
     "pos": "adj.",
     "meaning": "(thuộc) tâm lý, tâm lý học",
     "example": "Abuse can lead to both psychological and emotional problems.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-psychological-e71c28e5"
   },
   {
     "word": "pulse",
     "pos": "",
     "meaning": "mạch nhịp đập, nhịp điệu",
     "example": "The doctor took/felt my pulse. The music pulses with soul, Creole, and Cuban rhythms.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-pulse-e5592e95"
   },
   {
     "word": "rehabilitation",
     "pos": "n.",
-    "meaning": "sựphục hồi",
+    "meaning": "sự phục hồi",
     "example": "The patient is undergoing a slow rehabilitation",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-rehabilitation-ec5cba05"
   },
   {
     "word": "relieve",
     "pos": "",
-    "meaning": "làm dịu đi, làm nhẹbớt cơn đau",
+    "meaning": "làm dịu đi, làm nhẹ bớt cơn đau",
     "example": "She was given a shot of morphine to relieve the pain.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-relieve-1a6a6f3b"
   },
   {
     "word": "remedy",
     "pos": "",
     "meaning": "phương thuốc chữa bệnh",
     "example": "You can buy most cold remedies over the counter.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-remedy-371d503a"
   },
   {
     "word": "removal",
     "pos": "",
     "meaning": "sựcắt bỏ",
     "example": "His condition required the removal of a kidney",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-removal-fe57141c"
   },
   {
     "word": "scratch",
-    "pos": "",
-    "meaning": "",
-    "example": "v., n. noun: vết xước; vết thương nhẹ Từcon sốkhông, từbàn tay trắng verb: Cào, làm xước da I'd scratched my leg and it was bleeding.",
-    "topic": "11: Health and Well-being"
+    "pos": "v., n.",
+    "meaning": "vết xước; vết thương nhẹ; cào, làm xước da",
+    "example": "I'd scratched my leg and it was bleeding.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-scratch-aa3d8fda"
   },
   {
     "word": "severely",
-    "pos": "",
-    "meaning": "",
-    "example": "adv. Khắc khe, gay gắt rất gay go, khốc liệt, dữdội The crops were severely damaged. Anyone breaking the law will be severely punished.",
-    "topic": "11: Health and Well-being"
+    "pos": "adv.",
+    "meaning": "Khắc khe, gay gắt; rất gay go, khốc liệt, dữ dội",
+    "example": "The crops were severely damaged. Anyone breaking the law will be severely punished.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-severely-857705d2"
   },
   {
     "word": "skull",
     "pos": "",
     "meaning": "bộóc, đầu óc",
     "example": "Her skull was crammed with too many thoughts.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-skull-4a92dc97"
   },
   {
     "word": "stroke",
     "pos": "",
     "meaning": "cơn đột quỵ",
     "example": "She had a stroke that left her unable to speak.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-stroke-67ae8b43"
   },
   {
     "word": "supplement",
-    "pos": "",
-    "meaning": "",
-    "example": "v., n. thực phẩm bổsung The doctor said she should be taking vitamin supplements.",
-    "topic": "11: Health and Well-being"
+    "pos": "v., n.",
+    "meaning": "thực phẩm bổ sung",
+    "example": "The doctor said she should be taking vitamin supplements.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-supplement-594941d1"
   },
   {
     "word": "surgeon",
     "pos": "",
     "meaning": "bác sĩ phẫu thuật",
     "example": "The surgeon makes a small incision into which a tube is inserted.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-surgeon-735e7105"
   },
   {
     "word": "surgical",
-    "pos": "",
-    "meaning": "",
-    "example": "adj. thuộc vềphẫu thuật These surgical procedures are rarely used today and have been replaced by additive hormonal therapies.",
-    "topic": "11: Health and Well-being"
+    "pos": "adj.",
+    "meaning": "thuộc về phẫu thuật",
+    "example": "These surgical procedures are rarely used today and have been replaced by additive hormonal therapies.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-surgical-caee9ec9"
   },
   {
     "word": "survival",
     "pos": "",
-    "meaning": "sựsống sót",
+    "meaning": "sự sống sót",
     "example": "The doctors told my wife I had a 50/50 chance of survival.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-survival-7300dc4c"
   },
   {
     "word": "survivor",
     "pos": "",
     "meaning": "người sống sót",
     "example": "She's a cancer survivor.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-survivor-77794b52"
   },
   {
     "word": "syndrome",
     "pos": "",
     "meaning": "hội chứng",
     "example": "Down's syndrome is a genetic disorder.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-syndrome-2b491837"
   },
   {
     "word": "terminal",
-    "pos": "",
-    "meaning": "",
-    "example": "n., adj. giai đoạn cuối She has terminal cancer.",
-    "topic": "11: Health and Well-being"
+    "pos": "n., adj.",
+    "meaning": "giai đoạn cuối",
+    "example": "She has terminal cancer.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-terminal-1b7f15f8"
   },
   {
     "word": "terminate",
     "pos": "",
     "meaning": "kết thúc, chấm dứt",
     "example": "Some women prefer the use of medicine to terminate a pregnancy",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-terminate-c32d212a"
   },
   {
     "word": "testing",
     "pos": "",
     "meaning": "Thử, kiểm định, thí nghiệm",
     "example": "A promising new COVID drug is currently under testing",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-testing-7d75291e"
   },
   {
     "word": "therapist",
     "pos": "",
-    "meaning": "Bác sĩ điều trịchuyên khoa",
+    "meaning": "Bác sĩ điều trị chuyên khoa",
     "example": "He's been seeing a therapist to try to control his anger",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-therapist-2836bce9"
   },
   {
     "word": "thumb",
     "pos": "",
     "meaning": "Ngón tay cái",
     "example": "He smiled and raised a thumb in greeting",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-thumb-9aac9a75"
   },
   {
     "word": "tissue",
     "pos": "",
     "meaning": "Giấy lau",
     "example": "He wiped his nose on a tissue",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-tissue-c1d474b9"
   },
   {
     "word": "tobacco",
     "pos": "",
     "meaning": "Thuốc lá (cây lá)",
     "example": "We cannot sell tobacco or alcohol to anyone under",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-tobacco-e6c5a869"
   },
   {
     "word": "125 transmission",
     "pos": "n.",
-    "meaning": "Sựtruyền",
+    "meaning": "Sự truyền",
     "example": "The virus's usual transmission route is by sneezing",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-125-transmission-fc93c29a"
   },
   {
     "word": "transmit",
     "pos": "",
     "meaning": "Truyền",
     "example": "The disease cannot be transmitted through coughing or sneezing",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-transmit-1ae3db27"
   },
   {
     "word": "trauma",
     "pos": "",
     "meaning": "Chấn thương, tổn thương (chấn động vềcảm xúc gây tác hại lâu dài)",
     "example": "The children showed no signs of trauma after their ordeal",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-trauma-c77edc55"
   },
   {
     "word": "trigger",
-    "pos": "",
-    "meaning": "",
-    "example": "v., n. Gây ra Nuts can trigger off a violent allergic reaction",
-    "topic": "11: Health and Well-being"
+    "pos": "v., n.",
+    "meaning": "Gây ra",
+    "example": "Nuts can trigger off a violent allergic reaction",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-trigger-4cccc3e3"
   },
   {
     "word": "undergo",
     "pos": "",
     "meaning": "trải qua (cuộc phẫu thuật...)",
     "example": "She underwent an operation on a tumor in her left lung last year.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-undergo-72a96a6d"
   },
   {
     "word": "useless",
-    "pos": "",
-    "meaning": "",
-    "example": "adj. vô dụng This drug is useless in the treatment of patients with AIDS",
-    "topic": "11: Health and Well-being"
+    "pos": "adj.",
+    "meaning": "vô dụng",
+    "example": "This drug is useless in the treatment of patients with AIDS",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-useless-b03ada07"
   },
   {
     "word": "vein",
     "pos": "",
     "meaning": "tĩnh mạch",
     "example": "The function of the veins is to carry blood to the heart.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-vein-5569b434"
   },
   {
     "word": "visible",
-    "pos": "",
-    "meaning": "",
-    "example": "adj. có thểnhìn thấy được, rõ ràng There are few visible signs of the illness that kept her in hospital for so long.",
-    "topic": "11: Health and Well-being"
+    "pos": "adj.",
+    "meaning": "có thể nhìn thấy được, rõ ràng",
+    "example": "There are few visible signs of the illness that kept her in hospital for so long.",
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-visible-890783a3"
   },
   {
     "word": "weaken",
     "pos": "",
     "meaning": "yếu dần",
     "example": "You could see the poor dog weakening daily as the disease spread through its body.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-weaken-25a7b3b8"
   },
   {
     "word": "well-being",
     "pos": "",
     "meaning": "tình trạng hạnh phúc, khỏe mạnh",
     "example": "People doing yoga benefit from an increased feeling of well-being.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-well-being-5a705391"
   },
   {
     "word": "workout",
     "pos": "",
     "meaning": "việc luyện tập thân thể",
     "example": "Always wear good shoes for your workout.",
-    "topic": "11: Health and Well-being"
+    "topic": "11: Health and Well-being",
+    "id": "11-health-and-well-being-workout-fea75633"
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "name": "Flashcard English B2",
+  "short_name": "Flashcard B2",
+  "description": "Ứng dụng học từ vựng tiếng Anh B2 bằng flashcard, quiz và nối từ.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
